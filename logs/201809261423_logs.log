@@ -1,0 +1,2589 @@
+Log file for checking output of baseline and results files
+
+Baseline: 726, Results: 567
+
+Outputs\Baseline\Actions\CareerBreak\Test1-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (12106, 6), Shape BaselineFilter: (12106, 6)
+Outputs\Results\Actions\CareerBreak\Test1-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (12238, 6), Shape ResultFilter: (12106, 6)
+Match above?: True
+
+Outputs\Baseline\Actions\CareerBreak\Test1-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (202, 6), Shape BaselineFilter: (202, 6)
+Outputs\Results\Actions\CareerBreak\Test1-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (202, 6), Shape ResultFilter: (202, 6)
+Match above?: True
+
+Outputs\Baseline\Actions\CareerBreak\Test2-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (12106, 6), Shape BaselineFilter: (12106, 6)
+Outputs\Results\Actions\CareerBreak\Test2-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (12238, 6), Shape ResultFilter: (12106, 6)
+Match above?: True
+
+Outputs\Baseline\Actions\CareerBreak\Test2-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (202, 6), Shape BaselineFilter: (202, 6)
+Outputs\Results\Actions\CareerBreak\Test2-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (202, 6), Shape ResultFilter: (202, 6)
+Match above?: True
+
+Outputs\Baseline\Actions\DebtDrawdown\Test1-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (13299, 6), Shape BaselineFilter: (13299, 6)
+Outputs\Results\Actions\DebtDrawdown\Test1-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (13431, 6), Shape ResultFilter: (13299, 6)
+Match above?: True
+
+Outputs\Baseline\Actions\DebtDrawdown\Test1-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (202, 6), Shape BaselineFilter: (202, 6)
+Outputs\Results\Actions\DebtDrawdown\Test1-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (202, 6), Shape ResultFilter: (202, 6)
+Match above?: True
+
+Outputs\Baseline\Actions\DebtDrawdown\Test2-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (12503, 6), Shape BaselineFilter: (12503, 6)
+Outputs\Results\Actions\DebtDrawdown\Test2-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (12635, 6), Shape ResultFilter: (12503, 6)
+Match above?: True
+
+Outputs\Baseline\Actions\DebtDrawdown\Test2-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (202, 6), Shape BaselineFilter: (202, 6)
+Outputs\Results\Actions\DebtDrawdown\Test2-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (202, 6), Shape ResultFilter: (202, 6)
+Match above?: True
+
+Outputs\Baseline\Actions\DebtDrawdown\Test3-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (12767, 6), Shape BaselineFilter: (12767, 6)
+Outputs\Results\Actions\DebtDrawdown\Test3-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (12899, 6), Shape ResultFilter: (12767, 6)
+Match above?: True
+
+Outputs\Baseline\Actions\DebtDrawdown\Test3-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (1391, 6), Shape BaselineFilter: (1391, 6)
+Outputs\Results\Actions\DebtDrawdown\Test3-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (1391, 6), Shape ResultFilter: (1391, 6)
+Match above?: True
+
+Outputs\Baseline\Actions\DebtDrawdown\Test4-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (12767, 6), Shape BaselineFilter: (12767, 6)
+Outputs\Results\Actions\DebtDrawdown\Test4-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (12899, 6), Shape ResultFilter: (12767, 6)
+Match above?: True
+
+Results file Outputs\Results\Actions\DebtDrawdown\Test4-Simulation_CurrentPosition_Stochastic.csv missing
+
+Results file Outputs\Results\Actions\PayDebt\Test1-Simulation_CurrentPosition_Deterministic.csv missing
+
+Results file Outputs\Results\Actions\PayDebt\Test1-Simulation_CurrentPosition_Stochastic.csv missing
+
+Results file Outputs\Results\Actions\PayDebt\Test2-Simulation_CurrentPosition_Deterministic.csv missing
+
+Results file Outputs\Results\Actions\PayDebt\Test2-Simulation_CurrentPosition_Stochastic.csv missing
+
+Results file Outputs\Results\Actions\PayDebt\Test3-Simulation_CurrentPosition_Deterministic.csv missing
+
+Results file Outputs\Results\Actions\PayDebt\Test3-Simulation_CurrentPosition_Stochastic.csv missing
+
+Results file Outputs\Results\Actions\PayDebt\Test4-Simulation_CurrentPosition_Deterministic.csv missing
+
+Results file Outputs\Results\Actions\PayDebt\Test4-Simulation_CurrentPosition_Stochastic.csv missing
+
+Results file Outputs\Results\Actions\Retirement\Test1-Simulation_CurrentPosition_Deterministic.csv missing
+
+Results file Outputs\Results\Actions\Retirement\Test1-Simulation_CurrentPosition_Stochastic.csv missing
+
+Outputs\Baseline\Actions\Retirement\Test2-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (11422, 6), Shape BaselineFilter: (11422, 6)
+Outputs\Results\Actions\Retirement\Test2-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (11514, 6), Shape ResultFilter: (11422, 6)
+Match above?: True
+
+Outputs\Baseline\Actions\Retirement\Test2-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (142, 6), Shape BaselineFilter: (142, 6)
+Outputs\Results\Actions\Retirement\Test2-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (142, 6), Shape ResultFilter: (142, 6)
+Match above?: True
+
+Outputs\Baseline\Actions\Retirement\Test3-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (11422, 6), Shape BaselineFilter: (11422, 6)
+Outputs\Results\Actions\Retirement\Test3-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (11514, 6), Shape ResultFilter: (11422, 6)
+Match above?: True
+
+Outputs\Baseline\Actions\Retirement\Test3-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (142, 6), Shape BaselineFilter: (142, 6)
+Outputs\Results\Actions\Retirement\Test3-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (142, 6), Shape ResultFilter: (142, 6)
+Match above?: True
+
+Outputs\Baseline\Actions\Retirement\Test4-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (11422, 6), Shape BaselineFilter: (11422, 6)
+Outputs\Results\Actions\Retirement\Test4-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (11514, 6), Shape ResultFilter: (11422, 6)
+Match above?: True
+
+Outputs\Baseline\Actions\Retirement\Test4-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (142, 6), Shape BaselineFilter: (142, 6)
+Outputs\Results\Actions\Retirement\Test4-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (142, 6), Shape ResultFilter: (142, 6)
+Match above?: True
+
+Outputs\Baseline\Actions\Retirement\Test5-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (10678, 6), Shape BaselineFilter: (10678, 6)
+Outputs\Results\Actions\Retirement\Test5-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (10770, 6), Shape ResultFilter: (10678, 6)
+Match above?: True
+
+Outputs\Baseline\Actions\Retirement\Test5-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (142, 6), Shape BaselineFilter: (142, 6)
+Outputs\Results\Actions\Retirement\Test5-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (142, 6), Shape ResultFilter: (142, 6)
+Match above?: True
+
+Outputs\Baseline\Actions\Retirement\Test6-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (9885, 6), Shape BaselineFilter: (9885, 6)
+Outputs\Results\Actions\Retirement\Test6-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (9983, 6), Shape ResultFilter: (9885, 6)
+Match above?: True
+
+Outputs\Baseline\Actions\Retirement\Test6-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (151, 6), Shape BaselineFilter: (151, 6)
+Outputs\Results\Actions\Retirement\Test6-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (151, 6), Shape ResultFilter: (151, 6)
+Match above?: True
+
+Outputs\Baseline\Actions\Savings\Test1-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (7254, 6), Shape BaselineFilter: (7254, 6)
+Outputs\Results\Actions\Savings\Test1-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (7318, 6), Shape ResultFilter: (7254, 6)
+Match above?: True
+
+Outputs\Baseline\Actions\Savings\Test1-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (196, 6), Shape BaselineFilter: (196, 6)
+Outputs\Results\Actions\Savings\Test1-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (196, 6), Shape ResultFilter: (196, 6)
+Match above?: True
+
+Outputs\Baseline\Actions\Savings\Test2-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (12902, 6), Shape BaselineFilter: (12902, 6)
+Outputs\Results\Actions\Savings\Test2-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (13034, 6), Shape ResultFilter: (12902, 6)
+Match above?: True
+
+Outputs\Baseline\Actions\Savings\Test2-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (202, 6), Shape BaselineFilter: (202, 6)
+Outputs\Results\Actions\Savings\Test2-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (202, 6), Shape ResultFilter: (202, 6)
+Match above?: True
+
+Outputs\Baseline\Actions\Savings\Test3-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (7254, 6), Shape BaselineFilter: (7254, 6)
+Outputs\Results\Actions\Savings\Test3-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (7318, 6), Shape ResultFilter: (7254, 6)
+Match above?: True
+
+Results file Outputs\Results\Actions\Savings\Test3-Simulation_CurrentPosition_Stochastic.csv missing
+
+Results file Outputs\Results\Actions\Savings\Test4-Simulation_CurrentPosition_Deterministic.csv missing
+
+Results file Outputs\Results\Actions\Savings\Test4-Simulation_CurrentPosition_Stochastic.csv missing
+
+Outputs\Baseline\Actions\SellAsset\Test1-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (8025, 6), Shape BaselineFilter: (8025, 6)
+Outputs\Results\Actions\SellAsset\Test1-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (8089, 6), Shape ResultFilter: (8025, 6)
+Match above?: True
+
+Results file Outputs\Results\Actions\SellAsset\Test1-Simulation_CurrentPosition_Stochastic.csv missing
+
+Outputs\Baseline\Actions\SellAsset\Test10-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (4380, 6), Shape BaselineFilter: (4380, 6)
+Outputs\Results\Actions\SellAsset\Test10-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (4414, 6), Shape ResultFilter: (4380, 6)
+Match above?: True
+
+Outputs\Baseline\Actions\SellAsset\Test10-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (106, 6), Shape BaselineFilter: (106, 6)
+Outputs\Results\Actions\SellAsset\Test10-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (106, 6), Shape ResultFilter: (106, 6)
+Match above?: True
+
+Results file Outputs\Results\Actions\SellAsset\Test11-Simulation_CurrentPosition_Deterministic.csv missing
+
+Results file Outputs\Results\Actions\SellAsset\Test11-Simulation_CurrentPosition_Stochastic.csv missing
+
+Outputs\Baseline\Actions\SellAsset\Test2-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (13170, 6), Shape BaselineFilter: (13170, 6)
+Outputs\Results\Actions\SellAsset\Test2-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (13302, 6), Shape ResultFilter: (13170, 6)
+Match above?: True
+
+Results file Outputs\Results\Actions\SellAsset\Test2-Simulation_CurrentPosition_Stochastic.csv missing
+
+Results file Outputs\Results\Actions\SellAsset\Test3-Simulation_CurrentPosition_Deterministic.csv missing
+
+Results file Outputs\Results\Actions\SellAsset\Test3-Simulation_CurrentPosition_Stochastic.csv missing
+
+Results file Outputs\Results\Actions\SellAsset\Test4-Simulation_CurrentPosition_Deterministic.csv missing
+
+Results file Outputs\Results\Actions\SellAsset\Test4-Simulation_CurrentPosition_Stochastic.csv missing
+
+Results file Outputs\Results\Actions\SellAsset\Test5-Simulation_CurrentPosition_Deterministic.csv missing
+
+Results file Outputs\Results\Actions\SellAsset\Test5-Simulation_CurrentPosition_Stochastic.csv missing
+
+Results file Outputs\Results\Actions\SellAsset\Test6-Simulation_CurrentPosition_Deterministic.csv missing
+
+Results file Outputs\Results\Actions\SellAsset\Test6-Simulation_CurrentPosition_Stochastic.csv missing
+
+Results file Outputs\Results\Actions\SellAsset\Test7-Simulation_CurrentPosition_Deterministic.csv missing
+
+Results file Outputs\Results\Actions\SellAsset\Test7-Simulation_CurrentPosition_Stochastic.csv missing
+
+Outputs\Baseline\Actions\SellAsset\Test8-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (8156, 6), Shape BaselineFilter: (8156, 6)
+Outputs\Results\Actions\SellAsset\Test8-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (8220, 6), Shape ResultFilter: (8156, 6)
+Match above?: True
+
+Results file Outputs\Results\Actions\SellAsset\Test8-Simulation_CurrentPosition_Stochastic.csv missing
+
+Results file Outputs\Results\Actions\SellAsset\Test9-Simulation_CurrentPosition_Deterministic.csv missing
+
+Outputs\Baseline\Actions\SellAsset\Test9-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (202, 6), Shape BaselineFilter: (202, 6)
+Outputs\Results\Actions\SellAsset\Test9-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (202, 6), Shape ResultFilter: (202, 6)
+Match above?: True
+
+Results file Outputs\Results\Actions\TransferProducts\Test1-Simulation_CurrentPosition_Deterministic.csv missing
+
+Results file Outputs\Results\Actions\TransferProducts\Test1-Simulation_CurrentPosition_Stochastic.csv missing
+
+Outputs\Baseline\Actions\TransferProducts\Test2-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (4346, 6), Shape BaselineFilter: (4346, 6)
+Outputs\Results\Actions\TransferProducts\Test2-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (4380, 6), Shape ResultFilter: (4346, 6)
+Match above?: True
+
+Outputs\Baseline\Actions\TransferProducts\Test2-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (106, 6), Shape BaselineFilter: (106, 6)
+Outputs\Results\Actions\TransferProducts\Test2-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (106, 6), Shape ResultFilter: (106, 6)
+Match above?: True
+
+Outputs\Baseline\Actions\TransferProducts\Test3-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (8156, 6), Shape BaselineFilter: (8156, 6)
+Outputs\Results\Actions\TransferProducts\Test3-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (8220, 6), Shape ResultFilter: (8156, 6)
+Match above?: True
+
+Outputs\Baseline\Actions\TransferProducts\Test3-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (196, 6), Shape BaselineFilter: (196, 6)
+Outputs\Results\Actions\TransferProducts\Test3-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (196, 6), Shape ResultFilter: (196, 6)
+Match above?: True
+
+Outputs\Baseline\Actions\TransferProducts\Test4-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (7705, 6), Shape BaselineFilter: (7705, 6)
+Outputs\Results\Actions\TransferProducts\Test4-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (7769, 6), Shape ResultFilter: (7705, 6)
+Match above?: True
+
+Outputs\Baseline\Actions\TransferProducts\Test4-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (196, 6), Shape BaselineFilter: (196, 6)
+Outputs\Results\Actions\TransferProducts\Test4-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (196, 6), Shape ResultFilter: (196, 6)
+Match above?: True
+
+Outputs\Baseline\Actions\TransferProducts\Test5-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (9498, 6), Shape BaselineFilter: (9498, 6)
+Outputs\Results\Actions\TransferProducts\Test5-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (9562, 6), Shape ResultFilter: (9498, 6)
+Match above?: True
+
+Outputs\Baseline\Actions\TransferProducts\Test5-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (2502, 6), Shape BaselineFilter: (2502, 6)
+Outputs\Results\Actions\TransferProducts\Test5-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (2502, 6), Shape ResultFilter: (2502, 6)
+Match above?: True
+
+Outputs\Baseline\Actions\TransferProducts\Test6-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (8607, 6), Shape BaselineFilter: (8607, 6)
+Outputs\Results\Actions\TransferProducts\Test6-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (8671, 6), Shape ResultFilter: (8607, 6)
+Match above?: True
+
+Outputs\Baseline\Actions\TransferProducts\Test6-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (196, 6), Shape BaselineFilter: (196, 6)
+Outputs\Results\Actions\TransferProducts\Test6-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (196, 6), Shape ResultFilter: (196, 6)
+Match above?: True
+
+Outputs\Baseline\Actions\TransferProducts\Test7-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (7705, 6), Shape BaselineFilter: (7705, 6)
+Outputs\Results\Actions\TransferProducts\Test7-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (7769, 6), Shape ResultFilter: (7705, 6)
+Match above?: True
+
+Outputs\Baseline\Actions\TransferProducts\Test7-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (196, 6), Shape BaselineFilter: (196, 6)
+Outputs\Results\Actions\TransferProducts\Test7-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (196, 6), Shape ResultFilter: (196, 6)
+Match above?: True
+
+Outputs\Baseline\Actions\UpDownSizePPORs\Test1-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (5289, 6), Shape BaselineFilter: (5289, 6)
+Outputs\Results\Actions\UpDownSizePPORs\Test1-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (5334, 6), Shape ResultFilter: (5289, 6)
+Match above?: True
+
+Outputs\Baseline\Actions\UpDownSizePPORs\Test1-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (145, 6), Shape BaselineFilter: (145, 6)
+Outputs\Results\Actions\UpDownSizePPORs\Test1-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (145, 6), Shape ResultFilter: (145, 6)
+Match above?: True
+
+Outputs\Baseline\Actions\UpDownSizePPORs\Test10-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (9801, 6), Shape BaselineFilter: (9801, 6)
+Outputs\Results\Actions\UpDownSizePPORs\Test10-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (9897, 6), Shape ResultFilter: (9801, 6)
+Match above?: True
+
+Outputs\Baseline\Actions\UpDownSizePPORs\Test10-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (1667, 6), Shape BaselineFilter: (1667, 6)
+Outputs\Results\Actions\UpDownSizePPORs\Test10-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (1667, 6), Shape ResultFilter: (1667, 6)
+Match above?: True
+
+Outputs\Baseline\Actions\UpDownSizePPORs\Test11-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (9801, 6), Shape BaselineFilter: (9801, 6)
+Outputs\Results\Actions\UpDownSizePPORs\Test11-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (9897, 6), Shape ResultFilter: (9801, 6)
+Match above?: True
+
+Outputs\Baseline\Actions\UpDownSizePPORs\Test11-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (1667, 6), Shape BaselineFilter: (1667, 6)
+Outputs\Results\Actions\UpDownSizePPORs\Test11-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (1667, 6), Shape ResultFilter: (1667, 6)
+Match above?: True
+
+Results file Outputs\Results\Actions\UpDownSizePPORs\Test12-Simulation_CurrentPosition_Deterministic.csv missing
+
+Results file Outputs\Results\Actions\UpDownSizePPORs\Test12-Simulation_CurrentPosition_Stochastic.csv missing
+
+Results file Outputs\Results\Actions\UpDownSizePPORs\Test13-Simulation_CurrentPosition_Deterministic.csv missing
+
+Outputs\Baseline\Actions\UpDownSizePPORs\Test13-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (1667, 6), Shape BaselineFilter: (1667, 6)
+Outputs\Results\Actions\UpDownSizePPORs\Test13-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (1667, 6), Shape ResultFilter: (1667, 6)
+Match above?: True
+
+Results file Outputs\Results\Actions\UpDownSizePPORs\Test14-Simulation_CurrentPosition_Deterministic.csv missing
+
+Results file Outputs\Results\Actions\UpDownSizePPORs\Test14-Simulation_CurrentPosition_Stochastic.csv missing
+
+Results file Outputs\Results\Actions\UpDownSizePPORs\Test15-Simulation_CurrentPosition_Deterministic.csv missing
+
+Results file Outputs\Results\Actions\UpDownSizePPORs\Test15-Simulation_CurrentPosition_Stochastic.csv missing
+
+Results file Outputs\Results\Actions\UpDownSizePPORs\Test2-Simulation_CurrentPosition_Deterministic.csv missing
+
+Results file Outputs\Results\Actions\UpDownSizePPORs\Test2-Simulation_CurrentPosition_Stochastic.csv missing
+
+Results file Outputs\Results\Actions\UpDownSizePPORs\Test3-Simulation_CurrentPosition_Deterministic.csv missing
+
+Results file Outputs\Results\Actions\UpDownSizePPORs\Test3-Simulation_CurrentPosition_Stochastic.csv missing
+
+Results file Outputs\Results\Actions\UpDownSizePPORs\Test4-Simulation_CurrentPosition_Deterministic.csv missing
+
+Results file Outputs\Results\Actions\UpDownSizePPORs\Test4-Simulation_CurrentPosition_Stochastic.csv missing
+
+Results file Outputs\Results\Actions\UpDownSizePPORs\Test5-Simulation_CurrentPosition_Deterministic.csv missing
+
+Outputs\Baseline\Actions\UpDownSizePPORs\Test5-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (1667, 6), Shape BaselineFilter: (1667, 6)
+Outputs\Results\Actions\UpDownSizePPORs\Test5-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (1667, 6), Shape ResultFilter: (1667, 6)
+Match above?: True
+
+Results file Outputs\Results\Actions\UpDownSizePPORs\Test6-Simulation_CurrentPosition_Deterministic.csv missing
+
+Results file Outputs\Results\Actions\UpDownSizePPORs\Test6-Simulation_CurrentPosition_Stochastic.csv missing
+
+Results file Outputs\Results\Actions\UpDownSizePPORs\Test7-Simulation_CurrentPosition_Deterministic.csv missing
+
+Results file Outputs\Results\Actions\UpDownSizePPORs\Test7-Simulation_CurrentPosition_Stochastic.csv missing
+
+Outputs\Baseline\Actions\UpDownSizePPORs\Test8-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (9222, 6), Shape BaselineFilter: (9222, 6)
+Outputs\Results\Actions\UpDownSizePPORs\Test8-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (9318, 6), Shape ResultFilter: (9222, 6)
+Match above?: True
+
+Outputs\Baseline\Actions\UpDownSizePPORs\Test8-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (802, 6), Shape BaselineFilter: (802, 6)
+Outputs\Results\Actions\UpDownSizePPORs\Test8-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (802, 6), Shape ResultFilter: (802, 6)
+Match above?: True
+
+Outputs\Baseline\Actions\UpDownSizePPORs\Test9-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (9050, 6), Shape BaselineFilter: (9050, 6)
+Outputs\Results\Actions\UpDownSizePPORs\Test9-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (9146, 6), Shape ResultFilter: (9050, 6)
+Match above?: True
+
+Results file Outputs\Results\Actions\UpDownSizePPORs\Test9-Simulation_CurrentPosition_Stochastic.csv missing
+
+Outputs\Baseline\Assets\AMP Products\AMP Products-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (9979, 6), Shape BaselineFilter: (9979, 6)
+Outputs\Results\Assets\AMP Products\AMP Products-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (10077, 6), Shape ResultFilter: (9979, 6)
+Match above?: True
+
+Outputs\Baseline\Assets\AMP Products\AMP Products-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (151, 6), Shape BaselineFilter: (151, 6)
+Outputs\Results\Assets\AMP Products\AMP Products-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (151, 6), Shape ResultFilter: (151, 6)
+Match above?: True
+
+Results file Outputs\Results\Assets\Lifestyle Assets\Lifestyle Assets-Simulation_CurrentPosition_Deterministic2.csv missing
+
+Outputs\Baseline\Assets\Lifestyle Assets\Lifestyle Assets-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (151, 6), Shape BaselineFilter: (151, 6)
+Outputs\Results\Assets\Lifestyle Assets\Lifestyle Assets-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (151, 6), Shape ResultFilter: (151, 6)
+Match above?: True
+
+Outputs\Baseline\Cashflow\Contribution\Test1-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (7705, 6), Shape BaselineFilter: (7705, 6)
+Outputs\Results\Cashflow\Contribution\Test1-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (7769, 6), Shape ResultFilter: (7705, 6)
+Match above?: True
+
+Outputs\Baseline\Cashflow\Contribution\Test1-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (196, 6), Shape BaselineFilter: (196, 6)
+Outputs\Results\Cashflow\Contribution\Test1-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (196, 6), Shape ResultFilter: (196, 6)
+Match above?: True
+
+Outputs\Baseline\Cashflow\Contribution\Test10-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (13170, 6), Shape BaselineFilter: (13170, 6)
+Outputs\Results\Cashflow\Contribution\Test10-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (13302, 6), Shape ResultFilter: (13170, 6)
+Match above?: True
+
+Outputs\Baseline\Cashflow\Contribution\Test10-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (202, 6), Shape BaselineFilter: (202, 6)
+Outputs\Results\Cashflow\Contribution\Test10-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (202, 6), Shape ResultFilter: (202, 6)
+Match above?: True
+
+Outputs\Baseline\Cashflow\Contribution\Test11-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (13170, 6), Shape BaselineFilter: (13170, 6)
+Outputs\Results\Cashflow\Contribution\Test11-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (13302, 6), Shape ResultFilter: (13170, 6)
+Match above?: True
+
+Results file Outputs\Results\Cashflow\Contribution\Test11-Simulation_CurrentPosition_Stochastic.csv missing
+
+Results file Outputs\Results\Cashflow\Contribution\Test12-Simulation_CurrentPosition_Deterministic.csv missing
+
+Outputs\Baseline\Cashflow\Contribution\Test12-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (112, 6), Shape BaselineFilter: (112, 6)
+Outputs\Results\Cashflow\Contribution\Test12-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (112, 6), Shape ResultFilter: (112, 6)
+Match above?: True
+
+Results file Outputs\Results\Cashflow\Contribution\Test2-Simulation_CurrentPosition_Deterministic.csv missing
+
+Outputs\Baseline\Cashflow\Contribution\Test2-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (196, 6), Shape BaselineFilter: (196, 6)
+Outputs\Results\Cashflow\Contribution\Test2-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (196, 6), Shape ResultFilter: (196, 6)
+Match above?: True
+
+Outputs\Baseline\Cashflow\Contribution\Test3-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (7705, 6), Shape BaselineFilter: (7705, 6)
+Outputs\Results\Cashflow\Contribution\Test3-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (7769, 6), Shape ResultFilter: (7705, 6)
+Match above?: True
+
+Results file Outputs\Results\Cashflow\Contribution\Test3-Simulation_CurrentPosition_Stochastic.csv missing
+
+Results file Outputs\Results\Cashflow\Contribution\Test4-Simulation_CurrentPosition_Deterministic.csv missing
+
+Outputs\Baseline\Cashflow\Contribution\Test4-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (196, 6), Shape BaselineFilter: (196, 6)
+Outputs\Results\Cashflow\Contribution\Test4-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (196, 6), Shape ResultFilter: (196, 6)
+Match above?: True
+
+Results file Outputs\Results\Cashflow\Contribution\Test5-Simulation_CurrentPosition_Deterministic.csv missing
+
+Results file Outputs\Results\Cashflow\Contribution\Test5-Simulation_CurrentPosition_Stochastic.csv missing
+
+Results file Outputs\Results\Cashflow\Contribution\Test6-Simulation_CurrentPosition_Deterministic.csv missing
+
+Results file Outputs\Results\Cashflow\Contribution\Test6-Simulation_CurrentPosition_Stochastic.csv missing
+
+Results file Outputs\Results\Cashflow\Contribution\Test7-Simulation_CurrentPosition_Deterministic.csv missing
+
+Results file Outputs\Results\Cashflow\Contribution\Test7-Simulation_CurrentPosition_Stochastic.csv missing
+
+Outputs\Baseline\Cashflow\Contribution\Test8-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (7705, 6), Shape BaselineFilter: (7705, 6)
+Outputs\Results\Cashflow\Contribution\Test8-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (7769, 6), Shape ResultFilter: (7705, 6)
+Match above?: True
+
+Results file Outputs\Results\Cashflow\Contribution\Test8-Simulation_CurrentPosition_Stochastic.csv missing
+
+Outputs\Baseline\Cashflow\Contribution\Test9-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (13170, 6), Shape BaselineFilter: (13170, 6)
+Outputs\Results\Cashflow\Contribution\Test9-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (13302, 6), Shape ResultFilter: (13170, 6)
+Match above?: True
+
+Outputs\Baseline\Cashflow\Contribution\Test9-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (202, 6), Shape BaselineFilter: (202, 6)
+Outputs\Results\Cashflow\Contribution\Test9-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (202, 6), Shape ResultFilter: (202, 6)
+Match above?: True
+
+Outputs\Baseline\Cashflow\DBPension\Test1-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (8353, 6), Shape BaselineFilter: (8353, 6)
+Outputs\Results\Cashflow\DBPension\Test1-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (8443, 6), Shape ResultFilter: (8353, 6)
+Match above?: True
+
+Outputs\Baseline\Cashflow\DBPension\Test1-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (139, 6), Shape BaselineFilter: (139, 6)
+Outputs\Results\Cashflow\DBPension\Test1-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (139, 6), Shape ResultFilter: (139, 6)
+Match above?: True
+
+Results file Outputs\Results\Cashflow\DBPension\Test10-Simulation_CurrentPosition_Deterministic.csv missing
+
+Results file Outputs\Results\Cashflow\DBPension\Test10-Simulation_CurrentPosition_Stochastic.csv missing
+
+Results file Outputs\Results\Cashflow\DBPension\Test11-Simulation_CurrentPosition_Deterministic.csv missing
+
+Results file Outputs\Results\Cashflow\DBPension\Test11-Simulation_CurrentPosition_Stochastic.csv missing
+
+Outputs\Baseline\Cashflow\DBPension\Test12-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (8860, 6), Shape BaselineFilter: (8860, 6)
+Outputs\Results\Cashflow\DBPension\Test12-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (8956, 6), Shape ResultFilter: (8860, 6)
+Match above?: True
+
+Outputs\Baseline\Cashflow\DBPension\Test12-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (148, 6), Shape BaselineFilter: (148, 6)
+Outputs\Results\Cashflow\DBPension\Test12-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (148, 6), Shape ResultFilter: (148, 6)
+Match above?: True
+
+Outputs\Baseline\Cashflow\DBPension\Test13-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (4468, 6), Shape BaselineFilter: (4468, 6)
+Outputs\Results\Cashflow\DBPension\Test13-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (4507, 6), Shape ResultFilter: (4468, 6)
+Match above?: True
+
+Outputs\Baseline\Cashflow\DBPension\Test13-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (121, 6), Shape BaselineFilter: (121, 6)
+Outputs\Results\Cashflow\DBPension\Test13-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (121, 6), Shape ResultFilter: (121, 6)
+Match above?: True
+
+Outputs\Baseline\Cashflow\DBPension\Test14-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (5152, 6), Shape BaselineFilter: (5152, 6)
+Outputs\Results\Cashflow\DBPension\Test14-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (5197, 6), Shape ResultFilter: (5152, 6)
+Match above?: True
+
+Results file Outputs\Results\Cashflow\DBPension\Test14-Simulation_CurrentPosition_Stochastic.csv missing
+
+Outputs\Baseline\Cashflow\DBPension\Test15-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (4924, 6), Shape BaselineFilter: (4924, 6)
+Outputs\Results\Cashflow\DBPension\Test15-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (4967, 6), Shape ResultFilter: (4924, 6)
+Match above?: True
+
+Outputs\Baseline\Cashflow\DBPension\Test15-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (133, 6), Shape BaselineFilter: (133, 6)
+Outputs\Results\Cashflow\DBPension\Test15-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (133, 6), Shape ResultFilter: (133, 6)
+Match above?: True
+
+Outputs\Baseline\Cashflow\DBPension\Test16-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (5038, 6), Shape BaselineFilter: (5038, 6)
+Outputs\Results\Cashflow\DBPension\Test16-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (5082, 6), Shape ResultFilter: (5038, 6)
+Match above?: True
+
+Outputs\Baseline\Cashflow\DBPension\Test16-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (136, 6), Shape BaselineFilter: (136, 6)
+Outputs\Results\Cashflow\DBPension\Test16-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (136, 6), Shape ResultFilter: (136, 6)
+Match above?: True
+
+Results file Outputs\Results\Cashflow\DBPension\Test17-Simulation_CurrentPosition_Deterministic.csv missing
+
+Outputs\Baseline\Cashflow\DBPension\Test17-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (142, 6), Shape BaselineFilter: (142, 6)
+Outputs\Results\Cashflow\DBPension\Test17-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (142, 6), Shape ResultFilter: (142, 6)
+Match above?: True
+
+Outputs\Baseline\Cashflow\DBPension\Test18-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (5380, 6), Shape BaselineFilter: (5380, 6)
+Outputs\Results\Cashflow\DBPension\Test18-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (5427, 6), Shape ResultFilter: (5380, 6)
+Match above?: True
+
+Results file Outputs\Results\Cashflow\DBPension\Test18-Simulation_CurrentPosition_Stochastic.csv missing
+
+Outputs\Baseline\Cashflow\DBPension\Test2-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (4546, 6), Shape BaselineFilter: (4546, 6)
+Outputs\Results\Cashflow\DBPension\Test2-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (4585, 6), Shape ResultFilter: (4546, 6)
+Match above?: True
+
+Outputs\Baseline\Cashflow\DBPension\Test2-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (121, 6), Shape BaselineFilter: (121, 6)
+Outputs\Results\Cashflow\DBPension\Test2-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (121, 6), Shape ResultFilter: (121, 6)
+Match above?: True
+
+Results file Outputs\Results\Cashflow\DBPension\Test3-Simulation_CurrentPosition_Deterministic.csv missing
+
+Results file Outputs\Results\Cashflow\DBPension\Test3-Simulation_CurrentPosition_Stochastic.csv missing
+
+Results file Outputs\Results\Cashflow\DBPension\Test4-Simulation_CurrentPosition_Deterministic.csv missing
+
+Outputs\Baseline\Cashflow\DBPension\Test4-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (121, 6), Shape BaselineFilter: (121, 6)
+Outputs\Results\Cashflow\DBPension\Test4-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (121, 6), Shape ResultFilter: (121, 6)
+Match above?: True
+
+Results file Outputs\Results\Cashflow\DBPension\Test5-Simulation_CurrentPosition_Deterministic.csv missing
+
+Results file Outputs\Results\Cashflow\DBPension\Test5-Simulation_CurrentPosition_Stochastic.csv missing
+
+Results file Outputs\Results\Cashflow\DBPension\Test6-Simulation_CurrentPosition_Deterministic.csv missing
+
+Results file Outputs\Results\Cashflow\DBPension\Test6-Simulation_CurrentPosition_Stochastic.csv missing
+
+Results file Outputs\Results\Cashflow\DBPension\Test7-Simulation_CurrentPosition_Deterministic.csv missing
+
+Outputs\Baseline\Cashflow\DBPension\Test7-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (151, 6), Shape BaselineFilter: (151, 6)
+Outputs\Results\Cashflow\DBPension\Test7-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (151, 6), Shape ResultFilter: (151, 6)
+Match above?: True
+
+Outputs\Baseline\Cashflow\DBPension\Test8-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (5608, 6), Shape BaselineFilter: (5608, 6)
+Outputs\Results\Cashflow\DBPension\Test8-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (5657, 6), Shape ResultFilter: (5608, 6)
+Match above?: True
+
+Outputs\Baseline\Cashflow\DBPension\Test8-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (151, 6), Shape BaselineFilter: (151, 6)
+Outputs\Results\Cashflow\DBPension\Test8-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (151, 6), Shape ResultFilter: (151, 6)
+Match above?: True
+
+Results file Outputs\Results\Cashflow\DBPension\Test9-Simulation_CurrentPosition_Deterministic.csv missing
+
+Outputs\Baseline\Cashflow\DBPension\Test9-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (106, 6), Shape BaselineFilter: (106, 6)
+Outputs\Results\Cashflow\DBPension\Test9-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (106, 6), Shape ResultFilter: (106, 6)
+Match above?: True
+
+Outputs\Baseline\Cashflow\Expenses\Test1-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (4025, 6), Shape BaselineFilter: (4025, 6)
+Outputs\Results\Cashflow\Expenses\Test1-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (4060, 6), Shape ResultFilter: (4025, 6)
+Match above?: True
+
+Outputs\Baseline\Cashflow\Expenses\Test1-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (109, 6), Shape BaselineFilter: (109, 6)
+Outputs\Results\Cashflow\Expenses\Test1-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (109, 6), Shape ResultFilter: (109, 6)
+Match above?: True
+
+Outputs\Baseline\Cashflow\Expenses\Test2-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (7010, 6), Shape BaselineFilter: (7010, 6)
+Outputs\Results\Cashflow\Expenses\Test2-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (7086, 6), Shape ResultFilter: (7010, 6)
+Match above?: True
+
+Outputs\Baseline\Cashflow\Expenses\Test2-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (118, 6), Shape BaselineFilter: (118, 6)
+Outputs\Results\Cashflow\Expenses\Test2-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (118, 6), Shape ResultFilter: (118, 6)
+Match above?: True
+
+Outputs\Baseline\Cashflow\Expenses\Test3-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (3998, 6), Shape BaselineFilter: (3998, 6)
+Outputs\Results\Cashflow\Expenses\Test3-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (4033, 6), Shape ResultFilter: (3998, 6)
+Match above?: True
+
+Outputs\Baseline\Cashflow\Expenses\Test3-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (109, 6), Shape BaselineFilter: (109, 6)
+Outputs\Results\Cashflow\Expenses\Test3-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (109, 6), Shape ResultFilter: (109, 6)
+Match above?: True
+
+Outputs\Baseline\Cashflow\Expenses\Test4-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (3991, 6), Shape BaselineFilter: (3991, 6)
+Outputs\Results\Cashflow\Expenses\Test4-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (4026, 6), Shape ResultFilter: (3991, 6)
+Match above?: True
+
+Outputs\Baseline\Cashflow\Expenses\Test4-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (109, 6), Shape BaselineFilter: (109, 6)
+Outputs\Results\Cashflow\Expenses\Test4-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (109, 6), Shape ResultFilter: (109, 6)
+Match above?: True
+
+Outputs\Baseline\Cashflow\Expenses\Test5-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (7012, 6), Shape BaselineFilter: (7012, 6)
+Outputs\Results\Cashflow\Expenses\Test5-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (7088, 6), Shape ResultFilter: (7012, 6)
+Match above?: True
+
+Outputs\Baseline\Cashflow\Expenses\Test5-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (118, 6), Shape BaselineFilter: (118, 6)
+Outputs\Results\Cashflow\Expenses\Test5-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (118, 6), Shape ResultFilter: (118, 6)
+Match above?: True
+
+Outputs\Baseline\Cashflow\Expenses\Test6-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (7003, 6), Shape BaselineFilter: (7003, 6)
+Outputs\Results\Cashflow\Expenses\Test6-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (7079, 6), Shape ResultFilter: (7003, 6)
+Match above?: True
+
+Outputs\Baseline\Cashflow\Expenses\Test6-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (118, 6), Shape BaselineFilter: (118, 6)
+Outputs\Results\Cashflow\Expenses\Test6-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (118, 6), Shape ResultFilter: (118, 6)
+Match above?: True
+
+Outputs\Baseline\Cashflow\Expenses\Test7-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (3979, 6), Shape BaselineFilter: (3979, 6)
+Outputs\Results\Cashflow\Expenses\Test7-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (4014, 6), Shape ResultFilter: (3979, 6)
+Match above?: True
+
+Outputs\Baseline\Cashflow\Expenses\Test7-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (109, 6), Shape BaselineFilter: (109, 6)
+Outputs\Results\Cashflow\Expenses\Test7-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (109, 6), Shape ResultFilter: (109, 6)
+Match above?: True
+
+Outputs\Baseline\Cashflow\Expenses\Test8-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (4139, 6), Shape BaselineFilter: (4139, 6)
+Outputs\Results\Cashflow\Expenses\Test8-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (4173, 6), Shape ResultFilter: (4139, 6)
+Match above?: True
+
+Outputs\Baseline\Cashflow\Expenses\Test8-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (106, 6), Shape BaselineFilter: (106, 6)
+Outputs\Results\Cashflow\Expenses\Test8-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (106, 6), Shape ResultFilter: (106, 6)
+Match above?: True
+
+Outputs\Baseline\Cashflow\Other Income\Test1-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (7894, 6), Shape BaselineFilter: (7894, 6)
+Outputs\Results\Cashflow\Other Income\Test1-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (7958, 6), Shape ResultFilter: (7894, 6)
+Match above?: True
+
+Outputs\Baseline\Cashflow\Other Income\Test1-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (196, 6), Shape BaselineFilter: (196, 6)
+Outputs\Results\Cashflow\Other Income\Test1-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (196, 6), Shape ResultFilter: (196, 6)
+Match above?: True
+
+Outputs\Baseline\Cashflow\Other Income\Test2-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (7446, 6), Shape BaselineFilter: (7446, 6)
+Outputs\Results\Cashflow\Other Income\Test2-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (7510, 6), Shape ResultFilter: (7446, 6)
+Match above?: True
+
+Outputs\Baseline\Cashflow\Other Income\Test2-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (196, 6), Shape BaselineFilter: (196, 6)
+Outputs\Results\Cashflow\Other Income\Test2-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (196, 6), Shape ResultFilter: (196, 6)
+Match above?: True
+
+Outputs\Baseline\Cashflow\Other Income\Test3-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (4082, 6), Shape BaselineFilter: (4082, 6)
+Outputs\Results\Cashflow\Other Income\Test3-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (4117, 6), Shape ResultFilter: (4082, 6)
+Match above?: True
+
+Outputs\Baseline\Cashflow\Other Income\Test3-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (109, 6), Shape BaselineFilter: (109, 6)
+Outputs\Results\Cashflow\Other Income\Test3-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (109, 6), Shape ResultFilter: (109, 6)
+Match above?: True
+
+Results file Outputs\Results\Cashflow\Other Income\Test4-Simulation_CurrentPosition_Deterministic.csv missing
+
+Outputs\Baseline\Cashflow\Other Income\Test4-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (109, 6), Shape BaselineFilter: (109, 6)
+Outputs\Results\Cashflow\Other Income\Test4-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (109, 6), Shape ResultFilter: (109, 6)
+Match above?: True
+
+Results file Outputs\Results\Cashflow\Other Income\Test5-Simulation_CurrentPosition_Deterministic.csv missing
+
+Outputs\Baseline\Cashflow\Other Income\Test5-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (118, 6), Shape BaselineFilter: (118, 6)
+Outputs\Results\Cashflow\Other Income\Test5-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (118, 6), Shape ResultFilter: (118, 6)
+Match above?: True
+
+Outputs\Baseline\Cashflow\Other Income\Test6-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (4117, 6), Shape BaselineFilter: (4117, 6)
+Outputs\Results\Cashflow\Other Income\Test6-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (4152, 6), Shape ResultFilter: (4117, 6)
+Match above?: True
+
+Outputs\Baseline\Cashflow\Other Income\Test6-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (109, 6), Shape BaselineFilter: (109, 6)
+Outputs\Results\Cashflow\Other Income\Test6-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (109, 6), Shape ResultFilter: (109, 6)
+Match above?: True
+
+Results file Outputs\Results\Cashflow\PensionIncome\Test1-Simulation_CurrentPosition_Deterministic.csv missing
+
+Outputs\Baseline\Cashflow\PensionIncome\Test1-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (106, 6), Shape BaselineFilter: (106, 6)
+Outputs\Results\Cashflow\PensionIncome\Test1-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (106, 6), Shape ResultFilter: (106, 6)
+Match above?: True
+
+Results file Outputs\Results\Cashflow\PensionIncome\Test2-Simulation_CurrentPosition_Deterministic.csv missing
+
+Outputs\Baseline\Cashflow\PensionIncome\Test2-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (103, 6), Shape BaselineFilter: (103, 6)
+Outputs\Results\Cashflow\PensionIncome\Test2-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (103, 6), Shape ResultFilter: (103, 6)
+Match above?: True
+
+Outputs\Baseline\Cashflow\PensionIncome\Test3-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (3985, 6), Shape BaselineFilter: (3985, 6)
+Outputs\Results\Cashflow\PensionIncome\Test3-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (4018, 6), Shape ResultFilter: (3985, 6)
+Match above?: True
+
+Outputs\Baseline\Cashflow\PensionIncome\Test3-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (103, 6), Shape BaselineFilter: (103, 6)
+Outputs\Results\Cashflow\PensionIncome\Test3-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (103, 6), Shape ResultFilter: (103, 6)
+Match above?: True
+
+Results file Outputs\Results\Cashflow\PensionIncome\Test4-Simulation_CurrentPosition_Deterministic.csv missing
+
+Outputs\Baseline\Cashflow\PensionIncome\Test4-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (109, 6), Shape BaselineFilter: (109, 6)
+Outputs\Results\Cashflow\PensionIncome\Test4-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (109, 6), Shape ResultFilter: (109, 6)
+Match above?: True
+
+Outputs\Baseline\Cashflow\PensionIncome\Test5-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (6802, 6), Shape BaselineFilter: (6802, 6)
+Outputs\Results\Cashflow\PensionIncome\Test5-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (6870, 6), Shape ResultFilter: (6802, 6)
+Match above?: True
+
+Outputs\Baseline\Cashflow\PensionIncome\Test5-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (106, 6), Shape BaselineFilter: (106, 6)
+Outputs\Results\Cashflow\PensionIncome\Test5-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (106, 6), Shape ResultFilter: (106, 6)
+Match above?: True
+
+Outputs\Baseline\Cashflow\PensionIncome\Test6-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (3985, 6), Shape BaselineFilter: (3985, 6)
+Outputs\Results\Cashflow\PensionIncome\Test6-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (4018, 6), Shape ResultFilter: (3985, 6)
+Match above?: True
+
+Outputs\Baseline\Cashflow\PensionIncome\Test6-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (103, 6), Shape BaselineFilter: (103, 6)
+Outputs\Results\Cashflow\PensionIncome\Test6-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (103, 6), Shape ResultFilter: (103, 6)
+Match above?: True
+
+Results file Outputs\Results\Cashflow\PensionIncome\Test7-Simulation_CurrentPosition_Deterministic.csv missing
+
+Outputs\Baseline\Cashflow\PensionIncome\Test7-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (103, 6), Shape BaselineFilter: (103, 6)
+Outputs\Results\Cashflow\PensionIncome\Test7-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (103, 6), Shape ResultFilter: (103, 6)
+Match above?: True
+
+Results file Outputs\Results\Cashflow\PensionIncome\Test8-Simulation_CurrentPosition_Deterministic.csv missing
+
+Results file Outputs\Results\Cashflow\PensionIncome\Test8-Simulation_CurrentPosition_Stochastic.csv missing
+
+Outputs\Baseline\Cashflow\PensionIncome\Test9-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (8394, 6), Shape BaselineFilter: (8394, 6)
+Outputs\Results\Cashflow\PensionIncome\Test9-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (8478, 6), Shape ResultFilter: (8394, 6)
+Match above?: True
+
+Outputs\Baseline\Cashflow\PensionIncome\Test9-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (130, 6), Shape BaselineFilter: (130, 6)
+Outputs\Results\Cashflow\PensionIncome\Test9-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (130, 6), Shape ResultFilter: (130, 6)
+Match above?: True
+
+Outputs\Baseline\Comprehensive Test Cases\ComprehensiveCase1_CoupleRelease-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (15752, 6), Shape BaselineFilter: (15752, 6)
+Outputs\Results\Comprehensive Test Cases\ComprehensiveCase1_CoupleRelease-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (15848, 6), Shape ResultFilter: (15752, 6)
+Match above?: True
+
+Outputs\Baseline\Comprehensive Test Cases\ComprehensiveCase1_CoupleRelease-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (2817, 6), Shape BaselineFilter: (2817, 6)
+Outputs\Results\Comprehensive Test Cases\ComprehensiveCase1_CoupleRelease-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (2817, 6), Shape ResultFilter: (2817, 6)
+Match above?: True
+
+Outputs\Baseline\Comprehensive Test Cases\ComprehensiveCase2_AdviceCaseMiddleAgeCouple-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (19625, 6), Shape BaselineFilter: (19625, 6)
+Outputs\Results\Comprehensive Test Cases\ComprehensiveCase2_AdviceCaseMiddleAgeCouple-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (19739, 6), Shape ResultFilter: (19625, 6)
+Match above?: True
+
+Outputs\Baseline\Comprehensive Test Cases\ComprehensiveCase2_AdviceCaseMiddleAgeCouple-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (4504, 6), Shape BaselineFilter: (4504, 6)
+Outputs\Results\Comprehensive Test Cases\ComprehensiveCase2_AdviceCaseMiddleAgeCouple-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (4504, 6), Shape ResultFilter: (4504, 6)
+Match above?: True
+
+Outputs\Baseline\Core\Age Pension\Test1-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (3982, 6), Shape BaselineFilter: (3982, 6)
+Outputs\Results\Core\Age Pension\Test1-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (4015, 6), Shape ResultFilter: (3982, 6)
+Match above?: True
+
+Outputs\Baseline\Core\Age Pension\Test1-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (103, 6), Shape BaselineFilter: (103, 6)
+Outputs\Results\Core\Age Pension\Test1-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (103, 6), Shape ResultFilter: (103, 6)
+Match above?: True
+
+Outputs\Baseline\Core\Age Pension\Test10-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (6331, 6), Shape BaselineFilter: (6331, 6)
+Outputs\Results\Core\Age Pension\Test10-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (6397, 6), Shape ResultFilter: (6331, 6)
+Match above?: True
+
+Outputs\Baseline\Core\Age Pension\Test10-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (103, 6), Shape BaselineFilter: (103, 6)
+Outputs\Results\Core\Age Pension\Test10-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (103, 6), Shape ResultFilter: (103, 6)
+Match above?: True
+
+Outputs\Baseline\Core\Age Pension\Test11-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (6859, 6), Shape BaselineFilter: (6859, 6)
+Outputs\Results\Core\Age Pension\Test11-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (6925, 6), Shape ResultFilter: (6859, 6)
+Match above?: True
+
+Outputs\Baseline\Core\Age Pension\Test11-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (103, 6), Shape BaselineFilter: (103, 6)
+Outputs\Results\Core\Age Pension\Test11-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (103, 6), Shape ResultFilter: (103, 6)
+Match above?: True
+
+Outputs\Baseline\Core\Age Pension\Test12-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (4139, 6), Shape BaselineFilter: (4139, 6)
+Outputs\Results\Core\Age Pension\Test12-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (4173, 6), Shape ResultFilter: (4139, 6)
+Match above?: True
+
+Results file Outputs\Results\Core\Age Pension\Test12-Simulation_CurrentPosition_Stochastic.csv missing
+
+Results file Outputs\Results\Core\Age Pension\Test2-Simulation_CurrentPosition_Deterministic.csv missing
+
+Outputs\Baseline\Core\Age Pension\Test2-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (103, 6), Shape BaselineFilter: (103, 6)
+Outputs\Results\Core\Age Pension\Test2-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (103, 6), Shape ResultFilter: (103, 6)
+Match above?: True
+
+Outputs\Baseline\Core\Age Pension\Test3-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (4114, 6), Shape BaselineFilter: (4114, 6)
+Outputs\Results\Core\Age Pension\Test3-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (4147, 6), Shape ResultFilter: (4114, 6)
+Match above?: True
+
+Outputs\Baseline\Core\Age Pension\Test3-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (103, 6), Shape BaselineFilter: (103, 6)
+Outputs\Results\Core\Age Pension\Test3-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (103, 6), Shape ResultFilter: (103, 6)
+Match above?: True
+
+Results file Outputs\Results\Core\Age Pension\Test4-Simulation_CurrentPosition_Deterministic.csv missing
+
+Results file Outputs\Results\Core\Age Pension\Test4-Simulation_CurrentPosition_Stochastic.csv missing
+
+Outputs\Baseline\Core\Age Pension\Test5-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (6133, 6), Shape BaselineFilter: (6133, 6)
+Outputs\Results\Core\Age Pension\Test5-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (6199, 6), Shape ResultFilter: (6133, 6)
+Match above?: True
+
+Outputs\Baseline\Core\Age Pension\Test5-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (103, 6), Shape BaselineFilter: (103, 6)
+Outputs\Results\Core\Age Pension\Test5-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (103, 6), Shape ResultFilter: (103, 6)
+Match above?: True
+
+Results file Outputs\Results\Core\Age Pension\Test6-Simulation_CurrentPosition_Deterministic.csv missing
+
+Outputs\Baseline\Core\Age Pension\Test6-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (103, 6), Shape BaselineFilter: (103, 6)
+Outputs\Results\Core\Age Pension\Test6-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (103, 6), Shape ResultFilter: (103, 6)
+Match above?: True
+
+Results file Outputs\Results\Core\Age Pension\Test7-Simulation_CurrentPosition_Deterministic.csv missing
+
+Outputs\Baseline\Core\Age Pension\Test7-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (103, 6), Shape BaselineFilter: (103, 6)
+Outputs\Results\Core\Age Pension\Test7-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (103, 6), Shape ResultFilter: (103, 6)
+Match above?: True
+
+Results file Outputs\Results\Core\Age Pension\Test8-Simulation_CurrentPosition_Deterministic.csv missing
+
+Results file Outputs\Results\Core\Age Pension\Test8-Simulation_CurrentPosition_Stochastic.csv missing
+
+Outputs\Baseline\Core\Age Pension\Test9-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (3982, 6), Shape BaselineFilter: (3982, 6)
+Outputs\Results\Core\Age Pension\Test9-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (4015, 6), Shape ResultFilter: (3982, 6)
+Match above?: True
+
+Outputs\Baseline\Core\Age Pension\Test9-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (103, 6), Shape BaselineFilter: (103, 6)
+Outputs\Results\Core\Age Pension\Test9-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (103, 6), Shape ResultFilter: (103, 6)
+Match above?: True
+
+Results file Outputs\Results\Core\Income Tax\Test1-Simulation_CurrentPosition_Deterministic.csv missing
+
+Results file Outputs\Results\Core\Income Tax\Test1-Simulation_CurrentPosition_Stochastic.csv missing
+
+Outputs\Baseline\Core\Income Tax\Test10-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (3818, 6), Shape BaselineFilter: (3818, 6)
+Outputs\Results\Core\Income Tax\Test10-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (3851, 6), Shape ResultFilter: (3818, 6)
+Match above?: True
+
+Outputs\Baseline\Core\Income Tax\Test10-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (103, 6), Shape BaselineFilter: (103, 6)
+Outputs\Results\Core\Income Tax\Test10-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (103, 6), Shape ResultFilter: (103, 6)
+Match above?: True
+
+Results file Outputs\Results\Core\Income Tax\Test11-Simulation_CurrentPosition_Deterministic.csv missing
+
+Outputs\Baseline\Core\Income Tax\Test11-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (112, 6), Shape BaselineFilter: (112, 6)
+Outputs\Results\Core\Income Tax\Test11-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (112, 6), Shape ResultFilter: (112, 6)
+Match above?: True
+
+Results file Outputs\Results\Core\Income Tax\Test12-Simulation_CurrentPosition_Deterministic.csv missing
+
+Outputs\Baseline\Core\Income Tax\Test12-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (142, 6), Shape BaselineFilter: (142, 6)
+Outputs\Results\Core\Income Tax\Test12-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (142, 6), Shape ResultFilter: (142, 6)
+Match above?: True
+
+Outputs\Baseline\Core\Income Tax\Test13-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (5220, 6), Shape BaselineFilter: (5220, 6)
+Outputs\Results\Core\Income Tax\Test13-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (5266, 6), Shape ResultFilter: (5220, 6)
+Match above?: True
+
+Outputs\Baseline\Core\Income Tax\Test13-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (142, 6), Shape BaselineFilter: (142, 6)
+Outputs\Results\Core\Income Tax\Test13-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (142, 6), Shape ResultFilter: (142, 6)
+Match above?: True
+
+Outputs\Baseline\Core\Income Tax\Test14-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (5220, 6), Shape BaselineFilter: (5220, 6)
+Outputs\Results\Core\Income Tax\Test14-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (5266, 6), Shape ResultFilter: (5220, 6)
+Match above?: True
+
+Outputs\Baseline\Core\Income Tax\Test14-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (142, 6), Shape BaselineFilter: (142, 6)
+Outputs\Results\Core\Income Tax\Test14-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (142, 6), Shape ResultFilter: (142, 6)
+Match above?: True
+
+Outputs\Baseline\Core\Income Tax\Test15-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (5220, 6), Shape BaselineFilter: (5220, 6)
+Outputs\Results\Core\Income Tax\Test15-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (5266, 6), Shape ResultFilter: (5220, 6)
+Match above?: True
+
+Outputs\Baseline\Core\Income Tax\Test15-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (142, 6), Shape BaselineFilter: (142, 6)
+Outputs\Results\Core\Income Tax\Test15-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (142, 6), Shape ResultFilter: (142, 6)
+Match above?: True
+
+Outputs\Baseline\Core\Income Tax\Test16-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (4127, 6), Shape BaselineFilter: (4127, 6)
+Outputs\Results\Core\Income Tax\Test16-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (4163, 6), Shape ResultFilter: (4127, 6)
+Match above?: True
+
+Outputs\Baseline\Core\Income Tax\Test16-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (112, 6), Shape BaselineFilter: (112, 6)
+Outputs\Results\Core\Income Tax\Test16-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (112, 6), Shape ResultFilter: (112, 6)
+Match above?: True
+
+Outputs\Baseline\Core\Income Tax\Test17-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (6982, 6), Shape BaselineFilter: (6982, 6)
+Outputs\Results\Core\Income Tax\Test17-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (7054, 6), Shape ResultFilter: (6982, 6)
+Match above?: True
+
+Outputs\Baseline\Core\Income Tax\Test17-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (112, 6), Shape BaselineFilter: (112, 6)
+Outputs\Results\Core\Income Tax\Test17-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (112, 6), Shape ResultFilter: (112, 6)
+Match above?: True
+
+Outputs\Baseline\Core\Income Tax\Test18-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (6982, 6), Shape BaselineFilter: (6982, 6)
+Outputs\Results\Core\Income Tax\Test18-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (7054, 6), Shape ResultFilter: (6982, 6)
+Match above?: True
+
+Outputs\Baseline\Core\Income Tax\Test18-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (112, 6), Shape BaselineFilter: (112, 6)
+Outputs\Results\Core\Income Tax\Test18-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (112, 6), Shape ResultFilter: (112, 6)
+Match above?: True
+
+Results file Outputs\Results\Core\Income Tax\Test19-Simulation_CurrentPosition_Deterministic.csv missing
+
+Outputs\Baseline\Core\Income Tax\Test19-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (112, 6), Shape BaselineFilter: (112, 6)
+Outputs\Results\Core\Income Tax\Test19-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (112, 6), Shape ResultFilter: (112, 6)
+Match above?: True
+
+Results file Outputs\Results\Core\Income Tax\Test2-Simulation_CurrentPosition_Deterministic.csv missing
+
+Results file Outputs\Results\Core\Income Tax\Test2-Simulation_CurrentPosition_Stochastic.csv missing
+
+Results file Outputs\Results\Core\Income Tax\Test20-Simulation_CurrentPosition_Deterministic.csv missing
+
+Outputs\Baseline\Core\Income Tax\Test20-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (178, 6), Shape BaselineFilter: (178, 6)
+Outputs\Results\Core\Income Tax\Test20-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (178, 6), Shape ResultFilter: (178, 6)
+Match above?: True
+
+Results file Outputs\Results\Core\Income Tax\Test21-Simulation_CurrentPosition_Deterministic.csv missing
+
+Outputs\Baseline\Core\Income Tax\Test21-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (178, 6), Shape BaselineFilter: (178, 6)
+Outputs\Results\Core\Income Tax\Test21-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (178, 6), Shape ResultFilter: (178, 6)
+Match above?: True
+
+Outputs\Baseline\Core\Income Tax\Test22-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (11578, 6), Shape BaselineFilter: (11578, 6)
+Outputs\Results\Core\Income Tax\Test22-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (11694, 6), Shape ResultFilter: (11578, 6)
+Match above?: True
+
+Results file Outputs\Results\Core\Income Tax\Test22-Simulation_CurrentPosition_Stochastic.csv missing
+
+Outputs\Baseline\Core\Income Tax\Test23-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (11578, 6), Shape BaselineFilter: (11578, 6)
+Outputs\Results\Core\Income Tax\Test23-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (11694, 6), Shape ResultFilter: (11578, 6)
+Match above?: True
+
+Results file Outputs\Results\Core\Income Tax\Test23-Simulation_CurrentPosition_Stochastic.csv missing
+
+Outputs\Baseline\Core\Income Tax\Test24-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (11578, 6), Shape BaselineFilter: (11578, 6)
+Outputs\Results\Core\Income Tax\Test24-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (11694, 6), Shape ResultFilter: (11578, 6)
+Match above?: True
+
+Outputs\Baseline\Core\Income Tax\Test24-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (178, 6), Shape BaselineFilter: (178, 6)
+Outputs\Results\Core\Income Tax\Test24-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (178, 6), Shape ResultFilter: (178, 6)
+Match above?: True
+
+Results file Outputs\Results\Core\Income Tax\Test25-Simulation_CurrentPosition_Deterministic.csv missing
+
+Results file Outputs\Results\Core\Income Tax\Test25-Simulation_CurrentPosition_Stochastic.csv missing
+
+Outputs\Baseline\Core\Income Tax\Test26-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (11578, 6), Shape BaselineFilter: (11578, 6)
+Outputs\Results\Core\Income Tax\Test26-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (11694, 6), Shape ResultFilter: (11578, 6)
+Match above?: True
+
+Outputs\Baseline\Core\Income Tax\Test26-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (178, 6), Shape BaselineFilter: (178, 6)
+Outputs\Results\Core\Income Tax\Test26-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (178, 6), Shape ResultFilter: (178, 6)
+Match above?: True
+
+Outputs\Baseline\Core\Income Tax\Test27-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (11578, 6), Shape BaselineFilter: (11578, 6)
+Outputs\Results\Core\Income Tax\Test27-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (11694, 6), Shape ResultFilter: (11578, 6)
+Match above?: True
+
+Outputs\Baseline\Core\Income Tax\Test27-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (178, 6), Shape BaselineFilter: (178, 6)
+Outputs\Results\Core\Income Tax\Test27-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (178, 6), Shape ResultFilter: (178, 6)
+Match above?: True
+
+Outputs\Baseline\Core\Income Tax\Test28-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (11578, 6), Shape BaselineFilter: (11578, 6)
+Outputs\Results\Core\Income Tax\Test28-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (11694, 6), Shape ResultFilter: (11578, 6)
+Match above?: True
+
+Outputs\Baseline\Core\Income Tax\Test28-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (178, 6), Shape BaselineFilter: (178, 6)
+Outputs\Results\Core\Income Tax\Test28-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (178, 6), Shape ResultFilter: (178, 6)
+Match above?: True
+
+Outputs\Baseline\Core\Income Tax\Test29-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (11578, 6), Shape BaselineFilter: (11578, 6)
+Outputs\Results\Core\Income Tax\Test29-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (11694, 6), Shape ResultFilter: (11578, 6)
+Match above?: True
+
+Outputs\Baseline\Core\Income Tax\Test29-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (178, 6), Shape BaselineFilter: (178, 6)
+Outputs\Results\Core\Income Tax\Test29-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (178, 6), Shape ResultFilter: (178, 6)
+Match above?: True
+
+Outputs\Baseline\Core\Income Tax\Test3-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (5545, 6), Shape BaselineFilter: (5545, 6)
+Outputs\Results\Core\Income Tax\Test3-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (5591, 6), Shape ResultFilter: (5545, 6)
+Match above?: True
+
+Outputs\Baseline\Core\Income Tax\Test3-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (142, 6), Shape BaselineFilter: (142, 6)
+Outputs\Results\Core\Income Tax\Test3-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (142, 6), Shape ResultFilter: (142, 6)
+Match above?: True
+
+Outputs\Baseline\Core\Income Tax\Test30-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (11578, 6), Shape BaselineFilter: (11578, 6)
+Outputs\Results\Core\Income Tax\Test30-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (11694, 6), Shape ResultFilter: (11578, 6)
+Match above?: True
+
+Outputs\Baseline\Core\Income Tax\Test30-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (178, 6), Shape BaselineFilter: (178, 6)
+Outputs\Results\Core\Income Tax\Test30-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (178, 6), Shape ResultFilter: (178, 6)
+Match above?: True
+
+Outputs\Baseline\Core\Income Tax\Test31-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (9080, 6), Shape BaselineFilter: (9080, 6)
+Outputs\Results\Core\Income Tax\Test31-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (9170, 6), Shape ResultFilter: (9080, 6)
+Match above?: True
+
+Outputs\Baseline\Core\Income Tax\Test31-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (139, 6), Shape BaselineFilter: (139, 6)
+Outputs\Results\Core\Income Tax\Test31-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (139, 6), Shape ResultFilter: (139, 6)
+Match above?: True
+
+Outputs\Baseline\Core\Income Tax\Test32-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (9289, 6), Shape BaselineFilter: (9289, 6)
+Outputs\Results\Core\Income Tax\Test32-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (9375, 6), Shape ResultFilter: (9289, 6)
+Match above?: True
+
+Outputs\Baseline\Core\Income Tax\Test32-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (133, 6), Shape BaselineFilter: (133, 6)
+Outputs\Results\Core\Income Tax\Test32-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (133, 6), Shape ResultFilter: (133, 6)
+Match above?: True
+
+Outputs\Baseline\Core\Income Tax\Test33-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (9289, 6), Shape BaselineFilter: (9289, 6)
+Outputs\Results\Core\Income Tax\Test33-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (9375, 6), Shape ResultFilter: (9289, 6)
+Match above?: True
+
+Outputs\Baseline\Core\Income Tax\Test33-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (133, 6), Shape BaselineFilter: (133, 6)
+Outputs\Results\Core\Income Tax\Test33-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (133, 6), Shape ResultFilter: (133, 6)
+Match above?: True
+
+Outputs\Baseline\Core\Income Tax\Test34-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (10583, 6), Shape BaselineFilter: (10583, 6)
+Outputs\Results\Core\Income Tax\Test34-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (10689, 6), Shape ResultFilter: (10583, 6)
+Match above?: True
+
+Outputs\Baseline\Core\Income Tax\Test34-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (163, 6), Shape BaselineFilter: (163, 6)
+Outputs\Results\Core\Income Tax\Test34-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (163, 6), Shape ResultFilter: (163, 6)
+Match above?: True
+
+Results file Outputs\Results\Core\Income Tax\Test35-Simulation_CurrentPosition_Deterministic.csv missing
+
+Results file Outputs\Results\Core\Income Tax\Test35-Simulation_CurrentPosition_Stochastic.csv missing
+
+Outputs\Baseline\Core\Income Tax\Test36-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (8446, 6), Shape BaselineFilter: (8446, 6)
+Outputs\Results\Core\Income Tax\Test36-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (8538, 6), Shape ResultFilter: (8446, 6)
+Match above?: True
+
+Outputs\Baseline\Core\Income Tax\Test36-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (142, 6), Shape BaselineFilter: (142, 6)
+Outputs\Results\Core\Income Tax\Test36-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (142, 6), Shape ResultFilter: (142, 6)
+Match above?: True
+
+Results file Outputs\Results\Core\Income Tax\Test37-Simulation_CurrentPosition_Deterministic.csv missing
+
+Results file Outputs\Results\Core\Income Tax\Test37-Simulation_CurrentPosition_Stochastic.csv missing
+
+Outputs\Baseline\Core\Income Tax\Test38-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (8446, 6), Shape BaselineFilter: (8446, 6)
+Outputs\Results\Core\Income Tax\Test38-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (8538, 6), Shape ResultFilter: (8446, 6)
+Match above?: True
+
+Outputs\Baseline\Core\Income Tax\Test38-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (142, 6), Shape BaselineFilter: (142, 6)
+Outputs\Results\Core\Income Tax\Test38-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (142, 6), Shape ResultFilter: (142, 6)
+Match above?: True
+
+Results file Outputs\Results\Core\Income Tax\Test39-Simulation_CurrentPosition_Deterministic.csv missing
+
+Outputs\Baseline\Core\Income Tax\Test39-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (142, 6), Shape BaselineFilter: (142, 6)
+Outputs\Results\Core\Income Tax\Test39-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (142, 6), Shape ResultFilter: (142, 6)
+Match above?: True
+
+Outputs\Baseline\Core\Income Tax\Test4-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (3985, 6), Shape BaselineFilter: (3985, 6)
+Outputs\Results\Core\Income Tax\Test4-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (4018, 6), Shape ResultFilter: (3985, 6)
+Match above?: True
+
+Outputs\Baseline\Core\Income Tax\Test4-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (103, 6), Shape BaselineFilter: (103, 6)
+Outputs\Results\Core\Income Tax\Test4-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (103, 6), Shape ResultFilter: (103, 6)
+Match above?: True
+
+Outputs\Baseline\Core\Income Tax\Test40-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (8446, 6), Shape BaselineFilter: (8446, 6)
+Outputs\Results\Core\Income Tax\Test40-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (8538, 6), Shape ResultFilter: (8446, 6)
+Match above?: True
+
+Outputs\Baseline\Core\Income Tax\Test40-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (142, 6), Shape BaselineFilter: (142, 6)
+Outputs\Results\Core\Income Tax\Test40-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (142, 6), Shape ResultFilter: (142, 6)
+Match above?: True
+
+Results file Outputs\Results\Core\Income Tax\Test41-Simulation_CurrentPosition_Deterministic.csv missing
+
+Outputs\Baseline\Core\Income Tax\Test41-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (142, 6), Shape BaselineFilter: (142, 6)
+Outputs\Results\Core\Income Tax\Test41-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (142, 6), Shape ResultFilter: (142, 6)
+Match above?: True
+
+Outputs\Baseline\Core\Income Tax\Test42-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (8446, 6), Shape BaselineFilter: (8446, 6)
+Outputs\Results\Core\Income Tax\Test42-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (8538, 6), Shape ResultFilter: (8446, 6)
+Match above?: True
+
+Results file Outputs\Results\Core\Income Tax\Test42-Simulation_CurrentPosition_Stochastic.csv missing
+
+Results file Outputs\Results\Core\Income Tax\Test43-Simulation_CurrentPosition_Deterministic.csv missing
+
+Outputs\Baseline\Core\Income Tax\Test43-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (142, 6), Shape BaselineFilter: (142, 6)
+Outputs\Results\Core\Income Tax\Test43-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (142, 6), Shape ResultFilter: (142, 6)
+Match above?: True
+
+Results file Outputs\Results\Core\Income Tax\Test44-Simulation_CurrentPosition_Deterministic.csv missing
+
+Outputs\Baseline\Core\Income Tax\Test44-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (136, 6), Shape BaselineFilter: (136, 6)
+Outputs\Results\Core\Income Tax\Test44-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (136, 6), Shape ResultFilter: (136, 6)
+Match above?: True
+
+Outputs\Baseline\Core\Income Tax\Test45-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (4710, 6), Shape BaselineFilter: (4710, 6)
+Outputs\Results\Core\Income Tax\Test45-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (4749, 6), Shape ResultFilter: (4710, 6)
+Match above?: True
+
+Outputs\Baseline\Core\Income Tax\Test45-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (121, 6), Shape BaselineFilter: (121, 6)
+Outputs\Results\Core\Income Tax\Test45-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (121, 6), Shape ResultFilter: (121, 6)
+Match above?: True
+
+Outputs\Baseline\Core\Income Tax\Test46-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (9279, 6), Shape BaselineFilter: (9279, 6)
+Outputs\Results\Core\Income Tax\Test46-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (9371, 6), Shape ResultFilter: (9279, 6)
+Match above?: True
+
+Outputs\Baseline\Core\Income Tax\Test46-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (142, 6), Shape BaselineFilter: (142, 6)
+Outputs\Results\Core\Income Tax\Test46-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (142, 6), Shape ResultFilter: (142, 6)
+Match above?: True
+
+Outputs\Baseline\Core\Income Tax\Test5-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (5545, 6), Shape BaselineFilter: (5545, 6)
+Outputs\Results\Core\Income Tax\Test5-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (5591, 6), Shape ResultFilter: (5545, 6)
+Match above?: True
+
+Outputs\Baseline\Core\Income Tax\Test5-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (142, 6), Shape BaselineFilter: (142, 6)
+Outputs\Results\Core\Income Tax\Test5-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (142, 6), Shape ResultFilter: (142, 6)
+Match above?: True
+
+Outputs\Baseline\Core\Income Tax\Test6-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (5545, 6), Shape BaselineFilter: (5545, 6)
+Outputs\Results\Core\Income Tax\Test6-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (5591, 6), Shape ResultFilter: (5545, 6)
+Match above?: True
+
+Outputs\Baseline\Core\Income Tax\Test6-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (142, 6), Shape BaselineFilter: (142, 6)
+Outputs\Results\Core\Income Tax\Test6-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (142, 6), Shape ResultFilter: (142, 6)
+Match above?: True
+
+Outputs\Baseline\Core\Income Tax\Test7-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (9588, 6), Shape BaselineFilter: (9588, 6)
+Outputs\Results\Core\Income Tax\Test7-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (9684, 6), Shape ResultFilter: (9588, 6)
+Match above?: True
+
+Outputs\Baseline\Core\Income Tax\Test7-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (148, 6), Shape BaselineFilter: (148, 6)
+Outputs\Results\Core\Income Tax\Test7-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (148, 6), Shape ResultFilter: (148, 6)
+Match above?: True
+
+Outputs\Baseline\Core\Income Tax\Test8-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (9588, 6), Shape BaselineFilter: (9588, 6)
+Outputs\Results\Core\Income Tax\Test8-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (9684, 6), Shape ResultFilter: (9588, 6)
+Match above?: True
+
+Outputs\Baseline\Core\Income Tax\Test8-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (148, 6), Shape BaselineFilter: (148, 6)
+Outputs\Results\Core\Income Tax\Test8-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (148, 6), Shape ResultFilter: (148, 6)
+Match above?: True
+
+Outputs\Baseline\Core\Income Tax\Test9-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (9588, 6), Shape BaselineFilter: (9588, 6)
+Outputs\Results\Core\Income Tax\Test9-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (9684, 6), Shape ResultFilter: (9588, 6)
+Match above?: True
+
+Results file Outputs\Results\Core\Income Tax\Test9-Simulation_CurrentPosition_Stochastic.csv missing
+
+Results file Outputs\Results\Core\SIS\Test1-Simulation_CurrentPosition_Deterministic.csv missing
+
+Outputs\Baseline\Core\SIS\Test1-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (112, 6), Shape BaselineFilter: (112, 6)
+Outputs\Results\Core\SIS\Test1-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (112, 6), Shape ResultFilter: (112, 6)
+Match above?: True
+
+Results file Outputs\Results\Core\SIS\Test2-Simulation_CurrentPosition_Deterministic.csv missing
+
+Results file Outputs\Results\Core\SIS\Test2-Simulation_CurrentPosition_Stochastic.csv missing
+
+Outputs\Baseline\Core\SIS\Test3-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (8368, 6), Shape BaselineFilter: (8368, 6)
+Outputs\Results\Core\SIS\Test3-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (8440, 6), Shape ResultFilter: (8368, 6)
+Match above?: True
+
+Outputs\Baseline\Core\SIS\Test3-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (112, 6), Shape BaselineFilter: (112, 6)
+Outputs\Results\Core\SIS\Test3-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (112, 6), Shape ResultFilter: (112, 6)
+Match above?: True
+
+Outputs\Baseline\Core\SIS\Test4-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (8368, 6), Shape BaselineFilter: (8368, 6)
+Outputs\Results\Core\SIS\Test4-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (8440, 6), Shape ResultFilter: (8368, 6)
+Match above?: True
+
+Outputs\Baseline\Core\SIS\Test4-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (112, 6), Shape BaselineFilter: (112, 6)
+Outputs\Results\Core\SIS\Test4-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (112, 6), Shape ResultFilter: (112, 6)
+Match above?: True
+
+Outputs\Baseline\Debt\Debt - Test 1-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (6585, 6), Shape BaselineFilter: (6585, 6)
+Outputs\Results\Debt\Debt - Test 1-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (6629, 6), Shape ResultFilter: (6585, 6)
+Match above?: True
+
+Results file Outputs\Results\Debt\Debt - Test 1-Simulation_CurrentPosition_Stochastic.csv missing
+
+Outputs\Baseline\Debt\Debt - Test 10-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (5789, 6), Shape BaselineFilter: (5789, 6)
+Outputs\Results\Debt\Debt - Test 10-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (5833, 6), Shape ResultFilter: (5789, 6)
+Match above?: True
+
+Results file Outputs\Results\Debt\Debt - Test 10-Simulation_CurrentPosition_Stochastic.csv missing
+
+Outputs\Baseline\Debt\Debt - Test 11-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (10176, 6), Shape BaselineFilter: (10176, 6)
+Outputs\Results\Debt\Debt - Test 11-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (10274, 6), Shape ResultFilter: (10176, 6)
+Match above?: True
+
+Outputs\Baseline\Debt\Debt - Test 11-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (151, 6), Shape BaselineFilter: (151, 6)
+Outputs\Results\Debt\Debt - Test 11-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (151, 6), Shape ResultFilter: (151, 6)
+Match above?: True
+
+Outputs\Baseline\Debt\Debt - Test 2-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (6585, 6), Shape BaselineFilter: (6585, 6)
+Outputs\Results\Debt\Debt - Test 2-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (6629, 6), Shape ResultFilter: (6585, 6)
+Match above?: True
+
+Results file Outputs\Results\Debt\Debt - Test 2-Simulation_CurrentPosition_Stochastic.csv missing
+
+Outputs\Baseline\Debt\Debt - Test 3-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (6585, 6), Shape BaselineFilter: (6585, 6)
+Outputs\Results\Debt\Debt - Test 3-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (6629, 6), Shape ResultFilter: (6585, 6)
+Match above?: True
+
+Outputs\Baseline\Debt\Debt - Test 3-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (136, 6), Shape BaselineFilter: (136, 6)
+Outputs\Results\Debt\Debt - Test 3-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (136, 6), Shape ResultFilter: (136, 6)
+Match above?: True
+
+Results file Outputs\Results\Debt\Debt - Test 4-Simulation_CurrentPosition_Deterministic.csv missing
+
+Outputs\Baseline\Debt\Debt - Test 4-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (136, 6), Shape BaselineFilter: (136, 6)
+Outputs\Results\Debt\Debt - Test 4-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (136, 6), Shape ResultFilter: (136, 6)
+Match above?: True
+
+Results file Outputs\Results\Debt\Debt - Test 5-Simulation_CurrentPosition_Deterministic.csv missing
+
+Outputs\Baseline\Debt\Debt - Test 5-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (136, 6), Shape BaselineFilter: (136, 6)
+Outputs\Results\Debt\Debt - Test 5-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (136, 6), Shape ResultFilter: (136, 6)
+Match above?: True
+
+Outputs\Baseline\Debt\Debt - Test 6-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (6585, 6), Shape BaselineFilter: (6585, 6)
+Outputs\Results\Debt\Debt - Test 6-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (6629, 6), Shape ResultFilter: (6585, 6)
+Match above?: True
+
+Outputs\Baseline\Debt\Debt - Test 6-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (136, 6), Shape BaselineFilter: (136, 6)
+Outputs\Results\Debt\Debt - Test 6-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (136, 6), Shape ResultFilter: (136, 6)
+Match above?: True
+
+Outputs\Baseline\Debt\Debt - Test 7-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (6320, 6), Shape BaselineFilter: (6320, 6)
+Outputs\Results\Debt\Debt - Test 7-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (6364, 6), Shape ResultFilter: (6320, 6)
+Match above?: True
+
+Outputs\Baseline\Debt\Debt - Test 7-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (136, 6), Shape BaselineFilter: (136, 6)
+Outputs\Results\Debt\Debt - Test 7-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (136, 6), Shape ResultFilter: (136, 6)
+Match above?: True
+
+Outputs\Baseline\Debt\Debt - Test 8-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (6366, 6), Shape BaselineFilter: (6366, 6)
+Outputs\Results\Debt\Debt - Test 8-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (6410, 6), Shape ResultFilter: (6366, 6)
+Match above?: True
+
+Outputs\Baseline\Debt\Debt - Test 8-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (136, 6), Shape BaselineFilter: (136, 6)
+Outputs\Results\Debt\Debt - Test 8-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (136, 6), Shape ResultFilter: (136, 6)
+Match above?: True
+
+Outputs\Baseline\Debt\Debt - Test 9-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (6320, 6), Shape BaselineFilter: (6320, 6)
+Outputs\Results\Debt\Debt - Test 9-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (6364, 6), Shape ResultFilter: (6320, 6)
+Match above?: True
+
+Outputs\Baseline\Debt\Debt - Test 9-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (136, 6), Shape BaselineFilter: (136, 6)
+Outputs\Results\Debt\Debt - Test 9-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (136, 6), Shape ResultFilter: (136, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Asset Purchase\Test1-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (5107, 6), Shape BaselineFilter: (5107, 6)
+Outputs\Results\Goals\Asset Purchase\Test1-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (5148, 6), Shape ResultFilter: (5107, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Asset Purchase\Test1-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (143, 6), Shape BaselineFilter: (143, 6)
+Outputs\Results\Goals\Asset Purchase\Test1-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (143, 6), Shape ResultFilter: (143, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Asset Purchase\Test10-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (5103, 6), Shape BaselineFilter: (5103, 6)
+Outputs\Results\Goals\Asset Purchase\Test10-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (5144, 6), Shape ResultFilter: (5103, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Asset Purchase\Test10-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (363, 6), Shape BaselineFilter: (363, 6)
+Outputs\Results\Goals\Asset Purchase\Test10-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (363, 6), Shape ResultFilter: (363, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Asset Purchase\Test11-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (9419, 6), Shape BaselineFilter: (9419, 6)
+Outputs\Results\Goals\Asset Purchase\Test11-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (9472, 6), Shape ResultFilter: (9419, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Asset Purchase\Test11-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (785, 6), Shape BaselineFilter: (785, 6)
+Outputs\Results\Goals\Asset Purchase\Test11-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (785, 6), Shape ResultFilter: (785, 6)
+Match above?: True
+
+Results file Outputs\Results\Goals\Asset Purchase\Test12-Simulation_CurrentPosition_Deterministic.csv missing
+
+Results file Outputs\Results\Goals\Asset Purchase\Test12-Simulation_CurrentPosition_Stochastic.csv missing
+
+Outputs\Baseline\Goals\Asset Purchase\Test13-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (15707, 6), Shape BaselineFilter: (15707, 6)
+Outputs\Results\Goals\Asset Purchase\Test13-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (15813, 6), Shape ResultFilter: (15707, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Asset Purchase\Test13-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (785, 6), Shape BaselineFilter: (785, 6)
+Outputs\Results\Goals\Asset Purchase\Test13-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (785, 6), Shape ResultFilter: (785, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Asset Purchase\Test14-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (15707, 6), Shape BaselineFilter: (15707, 6)
+Outputs\Results\Goals\Asset Purchase\Test14-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (15813, 6), Shape ResultFilter: (15707, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Asset Purchase\Test14-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (785, 6), Shape BaselineFilter: (785, 6)
+Outputs\Results\Goals\Asset Purchase\Test14-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (785, 6), Shape ResultFilter: (785, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Asset Purchase\Test15-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (15707, 6), Shape BaselineFilter: (15707, 6)
+Outputs\Results\Goals\Asset Purchase\Test15-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (15813, 6), Shape ResultFilter: (15707, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Asset Purchase\Test15-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (785, 6), Shape BaselineFilter: (785, 6)
+Outputs\Results\Goals\Asset Purchase\Test15-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (785, 6), Shape ResultFilter: (785, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Asset Purchase\Test16-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (9807, 6), Shape BaselineFilter: (9807, 6)
+Outputs\Results\Goals\Asset Purchase\Test16-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (9873, 6), Shape ResultFilter: (9807, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Asset Purchase\Test16-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (485, 6), Shape BaselineFilter: (485, 6)
+Outputs\Results\Goals\Asset Purchase\Test16-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (485, 6), Shape ResultFilter: (485, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Asset Purchase\Test17-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (5265, 6), Shape BaselineFilter: (5265, 6)
+Outputs\Results\Goals\Asset Purchase\Test17-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (5298, 6), Shape ResultFilter: (5265, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Asset Purchase\Test17-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (3127, 6), Shape BaselineFilter: (3127, 6)
+Outputs\Results\Goals\Asset Purchase\Test17-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (3127, 6), Shape ResultFilter: (3127, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Asset Purchase\Test18-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (5265, 6), Shape BaselineFilter: (5265, 6)
+Outputs\Results\Goals\Asset Purchase\Test18-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (5298, 6), Shape ResultFilter: (5265, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Asset Purchase\Test18-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (3127, 6), Shape BaselineFilter: (3127, 6)
+Outputs\Results\Goals\Asset Purchase\Test18-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (3127, 6), Shape ResultFilter: (3127, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Asset Purchase\Test19-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (4465, 6), Shape BaselineFilter: (4465, 6)
+Outputs\Results\Goals\Asset Purchase\Test19-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (4498, 6), Shape ResultFilter: (4465, 6)
+Match above?: True
+
+Results file Outputs\Results\Goals\Asset Purchase\Test19-Simulation_CurrentPosition_Stochastic.csv missing
+
+Outputs\Baseline\Goals\Asset Purchase\Test2-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (4154, 6), Shape BaselineFilter: (4154, 6)
+Outputs\Results\Goals\Asset Purchase\Test2-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (4187, 6), Shape ResultFilter: (4154, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Asset Purchase\Test2-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (211, 6), Shape BaselineFilter: (211, 6)
+Outputs\Results\Goals\Asset Purchase\Test2-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (211, 6), Shape ResultFilter: (211, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Asset Purchase\Test3-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (4115, 6), Shape BaselineFilter: (4115, 6)
+Outputs\Results\Goals\Asset Purchase\Test3-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (4148, 6), Shape ResultFilter: (4115, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Asset Purchase\Test3-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (297, 6), Shape BaselineFilter: (297, 6)
+Outputs\Results\Goals\Asset Purchase\Test3-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (297, 6), Shape ResultFilter: (297, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Asset Purchase\Test4-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (6973, 6), Shape BaselineFilter: (6973, 6)
+Outputs\Results\Goals\Asset Purchase\Test4-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (7039, 6), Shape ResultFilter: (6973, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Asset Purchase\Test4-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (115, 6), Shape BaselineFilter: (115, 6)
+Outputs\Results\Goals\Asset Purchase\Test4-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (115, 6), Shape ResultFilter: (115, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Asset Purchase\Test5-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (6853, 6), Shape BaselineFilter: (6853, 6)
+Outputs\Results\Goals\Asset Purchase\Test5-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (6886, 6), Shape ResultFilter: (6853, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Asset Purchase\Test5-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (5773, 6), Shape BaselineFilter: (5773, 6)
+Outputs\Results\Goals\Asset Purchase\Test5-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (5773, 6), Shape ResultFilter: (5773, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Asset Purchase\Test6-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (5923, 6), Shape BaselineFilter: (5923, 6)
+Outputs\Results\Goals\Asset Purchase\Test6-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (5956, 6), Shape ResultFilter: (5923, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Asset Purchase\Test6-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (3577, 6), Shape BaselineFilter: (3577, 6)
+Outputs\Results\Goals\Asset Purchase\Test6-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (3577, 6), Shape ResultFilter: (3577, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Asset Purchase\Test7-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (6853, 6), Shape BaselineFilter: (6853, 6)
+Outputs\Results\Goals\Asset Purchase\Test7-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (6886, 6), Shape ResultFilter: (6853, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Asset Purchase\Test7-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (5773, 6), Shape BaselineFilter: (5773, 6)
+Outputs\Results\Goals\Asset Purchase\Test7-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (5773, 6), Shape ResultFilter: (5773, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Asset Purchase\Test8-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (5027, 6), Shape BaselineFilter: (5027, 6)
+Outputs\Results\Goals\Asset Purchase\Test8-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (5068, 6), Shape ResultFilter: (5027, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Asset Purchase\Test8-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (135, 6), Shape BaselineFilter: (135, 6)
+Outputs\Results\Goals\Asset Purchase\Test8-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (135, 6), Shape ResultFilter: (135, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Asset Purchase\Test9-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (5103, 6), Shape BaselineFilter: (5103, 6)
+Outputs\Results\Goals\Asset Purchase\Test9-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (5144, 6), Shape ResultFilter: (5103, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Asset Purchase\Test9-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (363, 6), Shape BaselineFilter: (363, 6)
+Outputs\Results\Goals\Asset Purchase\Test9-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (363, 6), Shape ResultFilter: (363, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Debt Repayment\Test1-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (7138, 6), Shape BaselineFilter: (7138, 6)
+Outputs\Results\Goals\Debt Repayment\Test1-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (7186, 6), Shape ResultFilter: (7138, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Debt Repayment\Test1-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (1894, 6), Shape BaselineFilter: (1894, 6)
+Outputs\Results\Goals\Debt Repayment\Test1-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (1894, 6), Shape ResultFilter: (1894, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Debt Repayment\Test2-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (7912, 6), Shape BaselineFilter: (7912, 6)
+Outputs\Results\Goals\Debt Repayment\Test2-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (7960, 6), Shape ResultFilter: (7912, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Debt Repayment\Test2-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (2767, 6), Shape BaselineFilter: (2767, 6)
+Outputs\Results\Goals\Debt Repayment\Test2-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (2767, 6), Shape ResultFilter: (2767, 6)
+Match above?: True
+
+Results file Outputs\Results\Goals\Insurance\Test1-Simulation_CurrentPosition_Deterministic.csv missing
+
+Results file Outputs\Results\Goals\Insurance\Test1-Simulation_CurrentPosition_Stochastic.csv missing
+
+Results file Outputs\Results\Goals\Insurance\Test2-Simulation_CurrentPosition_Deterministic.csv missing
+
+Outputs\Baseline\Goals\Insurance\Test2-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (175, 6), Shape BaselineFilter: (175, 6)
+Outputs\Results\Goals\Insurance\Test2-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (175, 6), Shape ResultFilter: (175, 6)
+Match above?: True
+
+Results file Outputs\Results\Goals\Insurance\Test3-Simulation_CurrentPosition_Deterministic.csv missing
+
+Outputs\Baseline\Goals\Insurance\Test3-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (134, 6), Shape BaselineFilter: (134, 6)
+Outputs\Results\Goals\Insurance\Test3-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (134, 6), Shape ResultFilter: (134, 6)
+Match above?: True
+
+Results file Outputs\Results\Goals\Insurance\Test4-Simulation_CurrentPosition_Deterministic.csv missing
+
+Outputs\Baseline\Goals\Insurance\Test4-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (130, 6), Shape BaselineFilter: (130, 6)
+Outputs\Results\Goals\Insurance\Test4-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (130, 6), Shape ResultFilter: (130, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Insurance\Test5-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (7992, 6), Shape BaselineFilter: (7992, 6)
+Outputs\Results\Goals\Insurance\Test5-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (8072, 6), Shape ResultFilter: (7992, 6)
+Match above?: True
+
+Results file Outputs\Results\Goals\Insurance\Test5-Simulation_CurrentPosition_Stochastic.csv missing
+
+Outputs\Baseline\Goals\Payment Stream\Test1-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (4114, 6), Shape BaselineFilter: (4114, 6)
+Outputs\Results\Goals\Payment Stream\Test1-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (4147, 6), Shape ResultFilter: (4114, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Payment Stream\Test1-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (195, 6), Shape BaselineFilter: (195, 6)
+Outputs\Results\Goals\Payment Stream\Test1-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (195, 6), Shape ResultFilter: (195, 6)
+Match above?: True
+
+Results file Outputs\Results\Goals\Payment Stream\Test10-Simulation_CurrentPosition_Deterministic.csv missing
+
+Outputs\Baseline\Goals\Payment Stream\Test10-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (117, 6), Shape BaselineFilter: (117, 6)
+Outputs\Results\Goals\Payment Stream\Test10-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (117, 6), Shape ResultFilter: (117, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Payment Stream\Test11-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (15314, 6), Shape BaselineFilter: (15314, 6)
+Outputs\Results\Goals\Payment Stream\Test11-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (15420, 6), Shape ResultFilter: (15314, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Payment Stream\Test11-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (177, 6), Shape BaselineFilter: (177, 6)
+Outputs\Results\Goals\Payment Stream\Test11-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (177, 6), Shape ResultFilter: (177, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Payment Stream\Test12-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (11009, 6), Shape BaselineFilter: (11009, 6)
+Outputs\Results\Goals\Payment Stream\Test12-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (11085, 6), Shape ResultFilter: (11009, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Payment Stream\Test12-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (132, 6), Shape BaselineFilter: (132, 6)
+Outputs\Results\Goals\Payment Stream\Test12-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (132, 6), Shape ResultFilter: (132, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Payment Stream\Test13-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (11009, 6), Shape BaselineFilter: (11009, 6)
+Outputs\Results\Goals\Payment Stream\Test13-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (11085, 6), Shape ResultFilter: (11009, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Payment Stream\Test13-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (132, 6), Shape BaselineFilter: (132, 6)
+Outputs\Results\Goals\Payment Stream\Test13-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (132, 6), Shape ResultFilter: (132, 6)
+Match above?: True
+
+Results file Outputs\Results\Goals\Payment Stream\Test14-Simulation_CurrentPosition_Deterministic.csv missing
+
+Outputs\Baseline\Goals\Payment Stream\Test14-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (117, 6), Shape BaselineFilter: (117, 6)
+Outputs\Results\Goals\Payment Stream\Test14-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (117, 6), Shape ResultFilter: (117, 6)
+Match above?: True
+
+Results file Outputs\Results\Goals\Payment Stream\Test15-Simulation_CurrentPosition_Deterministic.csv missing
+
+Outputs\Baseline\Goals\Payment Stream\Test15-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (3111, 6), Shape BaselineFilter: (3111, 6)
+Outputs\Results\Goals\Payment Stream\Test15-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (3111, 6), Shape ResultFilter: (3111, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Payment Stream\Test16-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (5001, 6), Shape BaselineFilter: (5001, 6)
+Outputs\Results\Goals\Payment Stream\Test16-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (5034, 6), Shape ResultFilter: (5001, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Payment Stream\Test16-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (3111, 6), Shape BaselineFilter: (3111, 6)
+Outputs\Results\Goals\Payment Stream\Test16-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (3111, 6), Shape ResultFilter: (3111, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Payment Stream\Test17-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (4366, 6), Shape BaselineFilter: (4366, 6)
+Outputs\Results\Goals\Payment Stream\Test17-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (4399, 6), Shape ResultFilter: (4366, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Payment Stream\Test17-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (1231, 6), Shape BaselineFilter: (1231, 6)
+Outputs\Results\Goals\Payment Stream\Test17-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (1231, 6), Shape ResultFilter: (1231, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Payment Stream\Test18-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (4122, 6), Shape BaselineFilter: (4122, 6)
+Outputs\Results\Goals\Payment Stream\Test18-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (4155, 6), Shape ResultFilter: (4122, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Payment Stream\Test18-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (484, 6), Shape BaselineFilter: (484, 6)
+Outputs\Results\Goals\Payment Stream\Test18-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (484, 6), Shape ResultFilter: (484, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Payment Stream\Test2-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (6059, 6), Shape BaselineFilter: (6059, 6)
+Outputs\Results\Goals\Payment Stream\Test2-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (6112, 6), Shape ResultFilter: (6059, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Payment Stream\Test2-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (197, 6), Shape BaselineFilter: (197, 6)
+Outputs\Results\Goals\Payment Stream\Test2-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (197, 6), Shape ResultFilter: (197, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Payment Stream\Test3-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (6050, 6), Shape BaselineFilter: (6050, 6)
+Outputs\Results\Goals\Payment Stream\Test3-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (6103, 6), Shape ResultFilter: (6050, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Payment Stream\Test3-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (190, 6), Shape BaselineFilter: (190, 6)
+Outputs\Results\Goals\Payment Stream\Test3-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (190, 6), Shape ResultFilter: (190, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Payment Stream\Test4-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (6214, 6), Shape BaselineFilter: (6214, 6)
+Outputs\Results\Goals\Payment Stream\Test4-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (6267, 6), Shape ResultFilter: (6214, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Payment Stream\Test4-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (287, 6), Shape BaselineFilter: (287, 6)
+Outputs\Results\Goals\Payment Stream\Test4-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (287, 6), Shape ResultFilter: (287, 6)
+Match above?: True
+
+Results file Outputs\Results\Goals\Payment Stream\Test5-Simulation_CurrentPosition_Deterministic.csv missing
+
+Results file Outputs\Results\Goals\Payment Stream\Test5-Simulation_CurrentPosition_Stochastic.csv missing
+
+Results file Outputs\Results\Goals\Payment Stream\Test6-Simulation_CurrentPosition_Deterministic.csv missing
+
+Outputs\Baseline\Goals\Payment Stream\Test6-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (3451, 6), Shape BaselineFilter: (3451, 6)
+Outputs\Results\Goals\Payment Stream\Test6-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (3451, 6), Shape ResultFilter: (3451, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Payment Stream\Test7-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (5656, 6), Shape BaselineFilter: (5656, 6)
+Outputs\Results\Goals\Payment Stream\Test7-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (5689, 6), Shape ResultFilter: (5656, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Payment Stream\Test7-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (5743, 6), Shape BaselineFilter: (5743, 6)
+Outputs\Results\Goals\Payment Stream\Test7-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (5743, 6), Shape ResultFilter: (5743, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Payment Stream\Test8-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (6034, 6), Shape BaselineFilter: (6034, 6)
+Outputs\Results\Goals\Payment Stream\Test8-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (6087, 6), Shape ResultFilter: (6034, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Payment Stream\Test8-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (177, 6), Shape BaselineFilter: (177, 6)
+Outputs\Results\Goals\Payment Stream\Test8-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (177, 6), Shape ResultFilter: (177, 6)
+Match above?: True
+
+Results file Outputs\Results\Goals\Payment Stream\Test9-Simulation_CurrentPosition_Deterministic.csv missing
+
+Results file Outputs\Results\Goals\Payment Stream\Test9-Simulation_CurrentPosition_Stochastic.csv missing
+
+Outputs\Baseline\Goals\Property Purchase\Test1-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (4612, 6), Shape BaselineFilter: (4612, 6)
+Outputs\Results\Goals\Property Purchase\Test1-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (4650, 6), Shape ResultFilter: (4612, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Property Purchase\Test1-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (142, 6), Shape BaselineFilter: (142, 6)
+Outputs\Results\Goals\Property Purchase\Test1-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (142, 6), Shape ResultFilter: (142, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Property Purchase\Test10-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (5279, 6), Shape BaselineFilter: (5279, 6)
+Outputs\Results\Goals\Property Purchase\Test10-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (5312, 6), Shape ResultFilter: (5279, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Property Purchase\Test10-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (3143, 6), Shape BaselineFilter: (3143, 6)
+Outputs\Results\Goals\Property Purchase\Test10-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (3143, 6), Shape ResultFilter: (3143, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Property Purchase\Test11-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (4324, 6), Shape BaselineFilter: (4324, 6)
+Outputs\Results\Goals\Property Purchase\Test11-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (4357, 6), Shape ResultFilter: (4324, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Property Purchase\Test11-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (1243, 6), Shape BaselineFilter: (1243, 6)
+Outputs\Results\Goals\Property Purchase\Test11-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (1243, 6), Shape ResultFilter: (1243, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Property Purchase\Test12-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (5047, 6), Shape BaselineFilter: (5047, 6)
+Outputs\Results\Goals\Property Purchase\Test12-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (5090, 6), Shape ResultFilter: (5047, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Property Purchase\Test12-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (145, 6), Shape BaselineFilter: (145, 6)
+Outputs\Results\Goals\Property Purchase\Test12-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (145, 6), Shape ResultFilter: (145, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Property Purchase\Test13-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (9419, 6), Shape BaselineFilter: (9419, 6)
+Outputs\Results\Goals\Property Purchase\Test13-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (9472, 6), Shape ResultFilter: (9419, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Property Purchase\Test13-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (187, 6), Shape BaselineFilter: (187, 6)
+Outputs\Results\Goals\Property Purchase\Test13-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (187, 6), Shape ResultFilter: (187, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Property Purchase\Test14-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (5879, 6), Shape BaselineFilter: (5879, 6)
+Outputs\Results\Goals\Property Purchase\Test14-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (5912, 6), Shape ResultFilter: (5879, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Property Purchase\Test14-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (127, 6), Shape BaselineFilter: (127, 6)
+Outputs\Results\Goals\Property Purchase\Test14-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (127, 6), Shape ResultFilter: (127, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Property Purchase\Test15-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (15707, 6), Shape BaselineFilter: (15707, 6)
+Outputs\Results\Goals\Property Purchase\Test15-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (15813, 6), Shape ResultFilter: (15707, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Property Purchase\Test15-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (187, 6), Shape BaselineFilter: (187, 6)
+Outputs\Results\Goals\Property Purchase\Test15-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (187, 6), Shape ResultFilter: (187, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Property Purchase\Test16-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (15707, 6), Shape BaselineFilter: (15707, 6)
+Outputs\Results\Goals\Property Purchase\Test16-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (15813, 6), Shape ResultFilter: (15707, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Property Purchase\Test16-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (187, 6), Shape BaselineFilter: (187, 6)
+Outputs\Results\Goals\Property Purchase\Test16-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (187, 6), Shape ResultFilter: (187, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Property Purchase\Test17-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (15707, 6), Shape BaselineFilter: (15707, 6)
+Outputs\Results\Goals\Property Purchase\Test17-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (15813, 6), Shape ResultFilter: (15707, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Property Purchase\Test17-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (187, 6), Shape BaselineFilter: (187, 6)
+Outputs\Results\Goals\Property Purchase\Test17-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (187, 6), Shape ResultFilter: (187, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Property Purchase\Test18-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (9807, 6), Shape BaselineFilter: (9807, 6)
+Outputs\Results\Goals\Property Purchase\Test18-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (9873, 6), Shape ResultFilter: (9807, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Property Purchase\Test18-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (127, 6), Shape BaselineFilter: (127, 6)
+Outputs\Results\Goals\Property Purchase\Test18-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (127, 6), Shape ResultFilter: (127, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Property Purchase\Test19-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (8304, 6), Shape BaselineFilter: (8304, 6)
+Outputs\Results\Goals\Property Purchase\Test19-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (8370, 6), Shape ResultFilter: (8304, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Property Purchase\Test19-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (1697, 6), Shape BaselineFilter: (1697, 6)
+Outputs\Results\Goals\Property Purchase\Test19-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (1697, 6), Shape ResultFilter: (1697, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Property Purchase\Test2-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (4017, 6), Shape BaselineFilter: (4017, 6)
+Outputs\Results\Goals\Property Purchase\Test2-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (4050, 6), Shape ResultFilter: (4017, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Property Purchase\Test2-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (126, 6), Shape BaselineFilter: (126, 6)
+Outputs\Results\Goals\Property Purchase\Test2-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (126, 6), Shape ResultFilter: (126, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Property Purchase\Test20-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (6642, 6), Shape BaselineFilter: (6642, 6)
+Outputs\Results\Goals\Property Purchase\Test20-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (6712, 6), Shape ResultFilter: (6642, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Property Purchase\Test20-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (115, 6), Shape BaselineFilter: (115, 6)
+Outputs\Results\Goals\Property Purchase\Test20-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (115, 6), Shape ResultFilter: (115, 6)
+Match above?: True
+
+Results file Outputs\Results\Goals\Property Purchase\Test21-Simulation_CurrentPosition_Deterministic.csv missing
+
+Outputs\Baseline\Goals\Property Purchase\Test21-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (115, 6), Shape BaselineFilter: (115, 6)
+Outputs\Results\Goals\Property Purchase\Test21-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (115, 6), Shape ResultFilter: (115, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Property Purchase\Test22-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (6782, 6), Shape BaselineFilter: (6782, 6)
+Outputs\Results\Goals\Property Purchase\Test22-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (6852, 6), Shape ResultFilter: (6782, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Property Purchase\Test22-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (115, 6), Shape BaselineFilter: (115, 6)
+Outputs\Results\Goals\Property Purchase\Test22-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (115, 6), Shape ResultFilter: (115, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Property Purchase\Test23-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (6782, 6), Shape BaselineFilter: (6782, 6)
+Outputs\Results\Goals\Property Purchase\Test23-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (6852, 6), Shape ResultFilter: (6782, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Property Purchase\Test23-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (115, 6), Shape BaselineFilter: (115, 6)
+Outputs\Results\Goals\Property Purchase\Test23-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (115, 6), Shape ResultFilter: (115, 6)
+Match above?: True
+
+Results file Outputs\Results\Goals\Property Purchase\Test3-Simulation_CurrentPosition_Deterministic.csv missing
+
+Outputs\Baseline\Goals\Property Purchase\Test3-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (121, 6), Shape BaselineFilter: (121, 6)
+Outputs\Results\Goals\Property Purchase\Test3-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (121, 6), Shape ResultFilter: (121, 6)
+Match above?: True
+
+Results file Outputs\Results\Goals\Property Purchase\Test4-Simulation_CurrentPosition_Deterministic.csv missing
+
+Results file Outputs\Results\Goals\Property Purchase\Test4-Simulation_CurrentPosition_Stochastic.csv missing
+
+Outputs\Baseline\Goals\Property Purchase\Test5-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (4011, 6), Shape BaselineFilter: (4011, 6)
+Outputs\Results\Goals\Property Purchase\Test5-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (4044, 6), Shape ResultFilter: (4011, 6)
+Match above?: True
+
+Results file Outputs\Results\Goals\Property Purchase\Test5-Simulation_CurrentPosition_Stochastic.csv missing
+
+Outputs\Baseline\Goals\Property Purchase\Test6-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (6616, 6), Shape BaselineFilter: (6616, 6)
+Outputs\Results\Goals\Property Purchase\Test6-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (6649, 6), Shape ResultFilter: (6616, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Property Purchase\Test6-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (5803, 6), Shape BaselineFilter: (5803, 6)
+Outputs\Results\Goals\Property Purchase\Test6-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (5803, 6), Shape ResultFilter: (5803, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Property Purchase\Test7-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (5488, 6), Shape BaselineFilter: (5488, 6)
+Outputs\Results\Goals\Property Purchase\Test7-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (5521, 6), Shape ResultFilter: (5488, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Property Purchase\Test7-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (3559, 6), Shape BaselineFilter: (3559, 6)
+Outputs\Results\Goals\Property Purchase\Test7-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (3559, 6), Shape ResultFilter: (3559, 6)
+Match above?: True
+
+Results file Outputs\Results\Goals\Property Purchase\Test8-Simulation_CurrentPosition_Deterministic.csv missing
+
+Outputs\Baseline\Goals\Property Purchase\Test8-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (5803, 6), Shape BaselineFilter: (5803, 6)
+Outputs\Results\Goals\Property Purchase\Test8-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (5803, 6), Shape ResultFilter: (5803, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Property Purchase\Test9-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (5279, 6), Shape BaselineFilter: (5279, 6)
+Outputs\Results\Goals\Property Purchase\Test9-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (5312, 6), Shape ResultFilter: (5279, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Property Purchase\Test9-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (3143, 6), Shape BaselineFilter: (3143, 6)
+Outputs\Results\Goals\Property Purchase\Test9-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (3143, 6), Shape ResultFilter: (3143, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Single Payment\Test1-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (3995, 6), Shape BaselineFilter: (3995, 6)
+Outputs\Results\Goals\Single Payment\Test1-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (4028, 6), Shape ResultFilter: (3995, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Single Payment\Test1-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (118, 6), Shape BaselineFilter: (118, 6)
+Outputs\Results\Goals\Single Payment\Test1-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (118, 6), Shape ResultFilter: (118, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Single Payment\Test10-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (15309, 6), Shape BaselineFilter: (15309, 6)
+Outputs\Results\Goals\Single Payment\Test10-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (15415, 6), Shape ResultFilter: (15309, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Single Payment\Test10-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (187, 6), Shape BaselineFilter: (187, 6)
+Outputs\Results\Goals\Single Payment\Test10-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (187, 6), Shape ResultFilter: (187, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Single Payment\Test11-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (11004, 6), Shape BaselineFilter: (11004, 6)
+Outputs\Results\Goals\Single Payment\Test11-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (11080, 6), Shape ResultFilter: (11004, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Single Payment\Test11-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (142, 6), Shape BaselineFilter: (142, 6)
+Outputs\Results\Goals\Single Payment\Test11-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (142, 6), Shape ResultFilter: (142, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Single Payment\Test12-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (11004, 6), Shape BaselineFilter: (11004, 6)
+Outputs\Results\Goals\Single Payment\Test12-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (11080, 6), Shape ResultFilter: (11004, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Single Payment\Test12-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (142, 6), Shape BaselineFilter: (142, 6)
+Outputs\Results\Goals\Single Payment\Test12-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (142, 6), Shape ResultFilter: (142, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Single Payment\Test13-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (9569, 6), Shape BaselineFilter: (9569, 6)
+Outputs\Results\Goals\Single Payment\Test13-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (9635, 6), Shape ResultFilter: (9569, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Single Payment\Test13-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (127, 6), Shape BaselineFilter: (127, 6)
+Outputs\Results\Goals\Single Payment\Test13-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (127, 6), Shape ResultFilter: (127, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Single Payment\Test14-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (5001, 6), Shape BaselineFilter: (5001, 6)
+Outputs\Results\Goals\Single Payment\Test14-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (5034, 6), Shape ResultFilter: (5001, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Single Payment\Test14-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (3111, 6), Shape BaselineFilter: (3111, 6)
+Outputs\Results\Goals\Single Payment\Test14-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (3111, 6), Shape ResultFilter: (3111, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Single Payment\Test15-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (5001, 6), Shape BaselineFilter: (5001, 6)
+Outputs\Results\Goals\Single Payment\Test15-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (5034, 6), Shape ResultFilter: (5001, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Single Payment\Test15-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (3111, 6), Shape BaselineFilter: (3111, 6)
+Outputs\Results\Goals\Single Payment\Test15-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (3111, 6), Shape ResultFilter: (3111, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Single Payment\Test16-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (4366, 6), Shape BaselineFilter: (4366, 6)
+Outputs\Results\Goals\Single Payment\Test16-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (4399, 6), Shape ResultFilter: (4366, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Single Payment\Test16-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (1231, 6), Shape BaselineFilter: (1231, 6)
+Outputs\Results\Goals\Single Payment\Test16-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (1231, 6), Shape ResultFilter: (1231, 6)
+Match above?: True
+
+Results file Outputs\Results\Goals\Single Payment\Test2-Simulation_CurrentPosition_Deterministic.csv missing
+
+Outputs\Baseline\Goals\Single Payment\Test2-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (179, 6), Shape BaselineFilter: (179, 6)
+Outputs\Results\Goals\Single Payment\Test2-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (179, 6), Shape ResultFilter: (179, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Single Payment\Test3-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (6020, 6), Shape BaselineFilter: (6020, 6)
+Outputs\Results\Goals\Single Payment\Test3-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (6073, 6), Shape ResultFilter: (6020, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Single Payment\Test3-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (175, 6), Shape BaselineFilter: (175, 6)
+Outputs\Results\Goals\Single Payment\Test3-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (175, 6), Shape ResultFilter: (175, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Single Payment\Test4-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (5890, 6), Shape BaselineFilter: (5890, 6)
+Outputs\Results\Goals\Single Payment\Test4-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (5923, 6), Shape ResultFilter: (5890, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Single Payment\Test4-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (5743, 6), Shape BaselineFilter: (5743, 6)
+Outputs\Results\Goals\Single Payment\Test4-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (5743, 6), Shape ResultFilter: (5743, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Single Payment\Test5-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (4882, 6), Shape BaselineFilter: (4882, 6)
+Outputs\Results\Goals\Single Payment\Test5-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (4915, 6), Shape ResultFilter: (4882, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Single Payment\Test5-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (3451, 6), Shape BaselineFilter: (3451, 6)
+Outputs\Results\Goals\Single Payment\Test5-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (3451, 6), Shape ResultFilter: (3451, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Single Payment\Test6-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (5656, 6), Shape BaselineFilter: (5656, 6)
+Outputs\Results\Goals\Single Payment\Test6-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (5689, 6), Shape ResultFilter: (5656, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Single Payment\Test6-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (5743, 6), Shape BaselineFilter: (5743, 6)
+Outputs\Results\Goals\Single Payment\Test6-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (5743, 6), Shape ResultFilter: (5743, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Single Payment\Test7-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (6014, 6), Shape BaselineFilter: (6014, 6)
+Outputs\Results\Goals\Single Payment\Test7-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (6067, 6), Shape ResultFilter: (6014, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Single Payment\Test7-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (167, 6), Shape BaselineFilter: (167, 6)
+Outputs\Results\Goals\Single Payment\Test7-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (167, 6), Shape ResultFilter: (167, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Single Payment\Test8-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (9021, 6), Shape BaselineFilter: (9021, 6)
+Outputs\Results\Goals\Single Payment\Test8-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (9074, 6), Shape ResultFilter: (9021, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Single Payment\Test8-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (187, 6), Shape BaselineFilter: (187, 6)
+Outputs\Results\Goals\Single Payment\Test8-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (187, 6), Shape ResultFilter: (187, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Single Payment\Test9-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (5641, 6), Shape BaselineFilter: (5641, 6)
+Outputs\Results\Goals\Single Payment\Test9-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (5674, 6), Shape ResultFilter: (5641, 6)
+Match above?: True
+
+Outputs\Baseline\Goals\Single Payment\Test9-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (127, 6), Shape BaselineFilter: (127, 6)
+Outputs\Results\Goals\Single Payment\Test9-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (127, 6), Shape ResultFilter: (127, 6)
+Match above?: True
+
+Outputs\Baseline\Insurance\Disability\Disability Insurance - Test 1-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (5980, 6), Shape BaselineFilter: (5980, 6)
+Outputs\Results\Insurance\Disability\Disability Insurance - Test 1-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (6024, 6), Shape ResultFilter: (5980, 6)
+Match above?: True
+
+Outputs\Baseline\Insurance\Disability\Disability Insurance - Test 1-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (136, 6), Shape BaselineFilter: (136, 6)
+Outputs\Results\Insurance\Disability\Disability Insurance - Test 1-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (136, 6), Shape ResultFilter: (136, 6)
+Match above?: True
+
+Outputs\Baseline\Insurance\Disability\Disability Insurance - Test 2-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (9198, 6), Shape BaselineFilter: (9198, 6)
+Outputs\Results\Insurance\Disability\Disability Insurance - Test 2-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (9290, 6), Shape ResultFilter: (9198, 6)
+Match above?: True
+
+Outputs\Baseline\Insurance\Disability\Disability Insurance - Test 2-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (142, 6), Shape BaselineFilter: (142, 6)
+Outputs\Results\Insurance\Disability\Disability Insurance - Test 2-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (142, 6), Shape ResultFilter: (142, 6)
+Match above?: True
+
+Outputs\Baseline\Insurance\Disability\Disability Insurance - Test 3-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (11062, 6), Shape BaselineFilter: (11062, 6)
+Outputs\Results\Insurance\Disability\Disability Insurance - Test 3-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (11154, 6), Shape ResultFilter: (11062, 6)
+Match above?: True
+
+Outputs\Baseline\Insurance\Disability\Disability Insurance - Test 3-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (142, 6), Shape BaselineFilter: (142, 6)
+Outputs\Results\Insurance\Disability\Disability Insurance - Test 3-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (142, 6), Shape ResultFilter: (142, 6)
+Match above?: True
+
+Outputs\Baseline\Insurance\Disability\Disability Insurance - Test 4-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (11062, 6), Shape BaselineFilter: (11062, 6)
+Outputs\Results\Insurance\Disability\Disability Insurance - Test 4-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (11154, 6), Shape ResultFilter: (11062, 6)
+Match above?: True
+
+Outputs\Baseline\Insurance\Disability\Disability Insurance - Test 4-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (142, 6), Shape BaselineFilter: (142, 6)
+Outputs\Results\Insurance\Disability\Disability Insurance - Test 4-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (142, 6), Shape ResultFilter: (142, 6)
+Match above?: True
+
+Outputs\Baseline\Insurance\Disability\Disability Insurance - Test 5-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (5894, 6), Shape BaselineFilter: (5894, 6)
+Outputs\Results\Insurance\Disability\Disability Insurance - Test 5-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (5938, 6), Shape ResultFilter: (5894, 6)
+Match above?: True
+
+Outputs\Baseline\Insurance\Disability\Disability Insurance - Test 5-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (136, 6), Shape BaselineFilter: (136, 6)
+Outputs\Results\Insurance\Disability\Disability Insurance - Test 5-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (136, 6), Shape ResultFilter: (136, 6)
+Match above?: True
+
+Outputs\Baseline\Insurance\Disability\Disability Insurance - Test 6-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (5534, 6), Shape BaselineFilter: (5534, 6)
+Outputs\Results\Insurance\Disability\Disability Insurance - Test 6-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (5578, 6), Shape ResultFilter: (5534, 6)
+Match above?: True
+
+Outputs\Baseline\Insurance\Disability\Disability Insurance - Test 6-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (136, 6), Shape BaselineFilter: (136, 6)
+Outputs\Results\Insurance\Disability\Disability Insurance - Test 6-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (136, 6), Shape ResultFilter: (136, 6)
+Match above?: True
+
+Outputs\Baseline\Insurance\Disability\Disability Insurance - Test 7-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (6025, 6), Shape BaselineFilter: (6025, 6)
+Outputs\Results\Insurance\Disability\Disability Insurance - Test 7-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (6069, 6), Shape ResultFilter: (6025, 6)
+Match above?: True
+
+Outputs\Baseline\Insurance\Disability\Disability Insurance - Test 7-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (136, 6), Shape BaselineFilter: (136, 6)
+Outputs\Results\Insurance\Disability\Disability Insurance - Test 7-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (136, 6), Shape ResultFilter: (136, 6)
+Match above?: True
+
+Outputs\Baseline\Insurance\IncomeProtection\Income Protection - Test 1-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (5714, 6), Shape BaselineFilter: (5714, 6)
+Outputs\Results\Insurance\IncomeProtection\Income Protection - Test 1-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (5758, 6), Shape ResultFilter: (5714, 6)
+Match above?: True
+
+Outputs\Baseline\Insurance\IncomeProtection\Income Protection - Test 1-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (136, 6), Shape BaselineFilter: (136, 6)
+Outputs\Results\Insurance\IncomeProtection\Income Protection - Test 1-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (136, 6), Shape ResultFilter: (136, 6)
+Match above?: True
+
+Outputs\Baseline\Insurance\IncomeProtection\Income Protection - Test 2-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (9198, 6), Shape BaselineFilter: (9198, 6)
+Outputs\Results\Insurance\IncomeProtection\Income Protection - Test 2-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (9290, 6), Shape ResultFilter: (9198, 6)
+Match above?: True
+
+Outputs\Baseline\Insurance\IncomeProtection\Income Protection - Test 2-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (142, 6), Shape BaselineFilter: (142, 6)
+Outputs\Results\Insurance\IncomeProtection\Income Protection - Test 2-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (142, 6), Shape ResultFilter: (142, 6)
+Match above?: True
+
+Outputs\Baseline\Insurance\IncomeProtection\Income Protection - Test 3-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (10784, 6), Shape BaselineFilter: (10784, 6)
+Outputs\Results\Insurance\IncomeProtection\Income Protection - Test 3-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (10876, 6), Shape ResultFilter: (10784, 6)
+Match above?: True
+
+Outputs\Baseline\Insurance\IncomeProtection\Income Protection - Test 3-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (142, 6), Shape BaselineFilter: (142, 6)
+Outputs\Results\Insurance\IncomeProtection\Income Protection - Test 3-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (142, 6), Shape ResultFilter: (142, 6)
+Match above?: True
+
+Results file Outputs\Results\Insurance\IncomeProtection\Income Protection - Test 4-Simulation_CurrentPosition_Deterministic.csv missing
+
+Outputs\Baseline\Insurance\IncomeProtection\Income Protection - Test 4-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (142, 6), Shape BaselineFilter: (142, 6)
+Outputs\Results\Insurance\IncomeProtection\Income Protection - Test 4-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (142, 6), Shape ResultFilter: (142, 6)
+Match above?: True
+
+Outputs\Baseline\Insurance\IncomeProtection\Income Protection - Test 5-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (5894, 6), Shape BaselineFilter: (5894, 6)
+Outputs\Results\Insurance\IncomeProtection\Income Protection - Test 5-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (5938, 6), Shape ResultFilter: (5894, 6)
+Match above?: True
+
+Outputs\Baseline\Insurance\IncomeProtection\Income Protection - Test 5-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (136, 6), Shape BaselineFilter: (136, 6)
+Outputs\Results\Insurance\IncomeProtection\Income Protection - Test 5-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (136, 6), Shape ResultFilter: (136, 6)
+Match above?: True
+
+Outputs\Baseline\Insurance\IncomeProtection\Income Protection - Test 6-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (5534, 6), Shape BaselineFilter: (5534, 6)
+Outputs\Results\Insurance\IncomeProtection\Income Protection - Test 6-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (5578, 6), Shape ResultFilter: (5534, 6)
+Match above?: True
+
+Outputs\Baseline\Insurance\IncomeProtection\Income Protection - Test 6-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (136, 6), Shape BaselineFilter: (136, 6)
+Outputs\Results\Insurance\IncomeProtection\Income Protection - Test 6-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (136, 6), Shape ResultFilter: (136, 6)
+Match above?: True
+
+Results file Outputs\Results\Insurance\IncomeProtection\Income Protection - Test 7-Simulation_CurrentPosition_Deterministic.csv missing
+
+Outputs\Baseline\Insurance\IncomeProtection\Income Protection - Test 7-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (136, 6), Shape BaselineFilter: (136, 6)
+Outputs\Results\Insurance\IncomeProtection\Income Protection - Test 7-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (136, 6), Shape ResultFilter: (136, 6)
+Match above?: True
+
+Outputs\Baseline\Insurance\Life\Life Insurance - Test 1-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (5714, 6), Shape BaselineFilter: (5714, 6)
+Outputs\Results\Insurance\Life\Life Insurance - Test 1-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (5758, 6), Shape ResultFilter: (5714, 6)
+Match above?: True
+
+Outputs\Baseline\Insurance\Life\Life Insurance - Test 1-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (136, 6), Shape BaselineFilter: (136, 6)
+Outputs\Results\Insurance\Life\Life Insurance - Test 1-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (136, 6), Shape ResultFilter: (136, 6)
+Match above?: True
+
+Outputs\Baseline\Insurance\Life\Life Insurance - Test 2-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (9795, 6), Shape BaselineFilter: (9795, 6)
+Outputs\Results\Insurance\Life\Life Insurance - Test 2-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (9893, 6), Shape ResultFilter: (9795, 6)
+Match above?: True
+
+Outputs\Baseline\Insurance\Life\Life Insurance - Test 2-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (151, 6), Shape BaselineFilter: (151, 6)
+Outputs\Results\Insurance\Life\Life Insurance - Test 2-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (151, 6), Shape ResultFilter: (151, 6)
+Match above?: True
+
+Outputs\Baseline\Insurance\Life\Life Insurance - Test 3-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (11062, 6), Shape BaselineFilter: (11062, 6)
+Outputs\Results\Insurance\Life\Life Insurance - Test 3-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (11154, 6), Shape ResultFilter: (11062, 6)
+Match above?: True
+
+Outputs\Baseline\Insurance\Life\Life Insurance - Test 3-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (142, 6), Shape BaselineFilter: (142, 6)
+Outputs\Results\Insurance\Life\Life Insurance - Test 3-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (142, 6), Shape ResultFilter: (142, 6)
+Match above?: True
+
+Outputs\Baseline\Insurance\Life\Life Insurance - Test 4-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (11062, 6), Shape BaselineFilter: (11062, 6)
+Outputs\Results\Insurance\Life\Life Insurance - Test 4-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (11154, 6), Shape ResultFilter: (11062, 6)
+Match above?: True
+
+Outputs\Baseline\Insurance\Life\Life Insurance - Test 4-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (142, 6), Shape BaselineFilter: (142, 6)
+Outputs\Results\Insurance\Life\Life Insurance - Test 4-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (142, 6), Shape ResultFilter: (142, 6)
+Match above?: True
+
+Outputs\Baseline\Insurance\Life\Life Insurance - Test 5-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (5894, 6), Shape BaselineFilter: (5894, 6)
+Outputs\Results\Insurance\Life\Life Insurance - Test 5-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (5938, 6), Shape ResultFilter: (5894, 6)
+Match above?: True
+
+Outputs\Baseline\Insurance\Life\Life Insurance - Test 5-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (136, 6), Shape BaselineFilter: (136, 6)
+Outputs\Results\Insurance\Life\Life Insurance - Test 5-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (136, 6), Shape ResultFilter: (136, 6)
+Match above?: True
+
+Outputs\Baseline\Insurance\Life\Life Insurance - Test 6-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (5534, 6), Shape BaselineFilter: (5534, 6)
+Outputs\Results\Insurance\Life\Life Insurance - Test 6-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (5578, 6), Shape ResultFilter: (5534, 6)
+Match above?: True
+
+Outputs\Baseline\Insurance\Life\Life Insurance - Test 6-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (136, 6), Shape BaselineFilter: (136, 6)
+Outputs\Results\Insurance\Life\Life Insurance - Test 6-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (136, 6), Shape ResultFilter: (136, 6)
+Match above?: True
+
+Outputs\Baseline\Insurance\Life\Life Insurance - Test 7-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (6025, 6), Shape BaselineFilter: (6025, 6)
+Outputs\Results\Insurance\Life\Life Insurance - Test 7-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (6069, 6), Shape ResultFilter: (6025, 6)
+Match above?: True
+
+Outputs\Baseline\Insurance\Life\Life Insurance - Test 7-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (136, 6), Shape BaselineFilter: (136, 6)
+Outputs\Results\Insurance\Life\Life Insurance - Test 7-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (136, 6), Shape ResultFilter: (136, 6)
+Match above?: True
+
+Outputs\Baseline\Insurance\Trauma\Trauma Insurance - Test 1-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (5714, 6), Shape BaselineFilter: (5714, 6)
+Outputs\Results\Insurance\Trauma\Trauma Insurance - Test 1-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (5758, 6), Shape ResultFilter: (5714, 6)
+Match above?: True
+
+Outputs\Baseline\Insurance\Trauma\Trauma Insurance - Test 1-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (136, 6), Shape BaselineFilter: (136, 6)
+Outputs\Results\Insurance\Trauma\Trauma Insurance - Test 1-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (136, 6), Shape ResultFilter: (136, 6)
+Match above?: True
+
+Outputs\Baseline\Insurance\Trauma\Trauma Insurance - Test 2-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (9795, 6), Shape BaselineFilter: (9795, 6)
+Outputs\Results\Insurance\Trauma\Trauma Insurance - Test 2-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (9893, 6), Shape ResultFilter: (9795, 6)
+Match above?: True
+
+Outputs\Baseline\Insurance\Trauma\Trauma Insurance - Test 2-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (151, 6), Shape BaselineFilter: (151, 6)
+Outputs\Results\Insurance\Trauma\Trauma Insurance - Test 2-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (151, 6), Shape ResultFilter: (151, 6)
+Match above?: True
+
+Outputs\Baseline\Insurance\Trauma\Trauma Insurance - Test 3-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (11062, 6), Shape BaselineFilter: (11062, 6)
+Outputs\Results\Insurance\Trauma\Trauma Insurance - Test 3-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (11154, 6), Shape ResultFilter: (11062, 6)
+Match above?: True
+
+Outputs\Baseline\Insurance\Trauma\Trauma Insurance - Test 3-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (142, 6), Shape BaselineFilter: (142, 6)
+Outputs\Results\Insurance\Trauma\Trauma Insurance - Test 3-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (142, 6), Shape ResultFilter: (142, 6)
+Match above?: True
+
+Outputs\Baseline\Insurance\Trauma\Trauma Insurance - Test 4-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (11062, 6), Shape BaselineFilter: (11062, 6)
+Outputs\Results\Insurance\Trauma\Trauma Insurance - Test 4-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (11154, 6), Shape ResultFilter: (11062, 6)
+Match above?: True
+
+Outputs\Baseline\Insurance\Trauma\Trauma Insurance - Test 4-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (142, 6), Shape BaselineFilter: (142, 6)
+Outputs\Results\Insurance\Trauma\Trauma Insurance - Test 4-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (142, 6), Shape ResultFilter: (142, 6)
+Match above?: True
+
+Outputs\Baseline\Insurance\Trauma\Trauma Insurance - Test 5-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (5894, 6), Shape BaselineFilter: (5894, 6)
+Outputs\Results\Insurance\Trauma\Trauma Insurance - Test 5-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (5938, 6), Shape ResultFilter: (5894, 6)
+Match above?: True
+
+Outputs\Baseline\Insurance\Trauma\Trauma Insurance - Test 5-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (136, 6), Shape BaselineFilter: (136, 6)
+Outputs\Results\Insurance\Trauma\Trauma Insurance - Test 5-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (136, 6), Shape ResultFilter: (136, 6)
+Match above?: True
+
+Outputs\Baseline\Insurance\Trauma\Trauma Insurance - Test 6-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (5534, 6), Shape BaselineFilter: (5534, 6)
+Outputs\Results\Insurance\Trauma\Trauma Insurance - Test 6-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (5578, 6), Shape ResultFilter: (5534, 6)
+Match above?: True
+
+Outputs\Baseline\Insurance\Trauma\Trauma Insurance - Test 6-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (136, 6), Shape BaselineFilter: (136, 6)
+Outputs\Results\Insurance\Trauma\Trauma Insurance - Test 6-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (136, 6), Shape ResultFilter: (136, 6)
+Match above?: True
+
+Outputs\Baseline\Insurance\Trauma\Trauma Insurance - Test 7-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (6025, 6), Shape BaselineFilter: (6025, 6)
+Outputs\Results\Insurance\Trauma\Trauma Insurance - Test 7-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (6069, 6), Shape ResultFilter: (6025, 6)
+Match above?: True
+
+Outputs\Baseline\Insurance\Trauma\Trauma Insurance - Test 7-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (136, 6), Shape BaselineFilter: (136, 6)
+Outputs\Results\Insurance\Trauma\Trauma Insurance - Test 7-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (136, 6), Shape ResultFilter: (136, 6)
+Match above?: True
+
+Results file Outputs\Results\Products\Bank Account\Bank Accounts - Test 1-Simulation_CurrentPosition_Deterministic.csv missing
+
+Outputs\Baseline\Products\Bank Account\Bank Accounts - Test 1-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (136, 6), Shape BaselineFilter: (136, 6)
+Outputs\Results\Products\Bank Account\Bank Accounts - Test 1-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (136, 6), Shape ResultFilter: (136, 6)
+Match above?: True
+
+Outputs\Baseline\Products\Bank Account\Bank Accounts - Test 2-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (9587, 6), Shape BaselineFilter: (9587, 6)
+Outputs\Results\Products\Bank Account\Bank Accounts - Test 2-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (9685, 6), Shape ResultFilter: (9587, 6)
+Match above?: True
+
+Outputs\Baseline\Products\Bank Account\Bank Accounts - Test 2-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (151, 6), Shape BaselineFilter: (151, 6)
+Outputs\Results\Products\Bank Account\Bank Accounts - Test 2-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (151, 6), Shape ResultFilter: (151, 6)
+Match above?: True
+
+Outputs\Baseline\Products\Bank Account\Bank Accounts - Test 3-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (5792, 6), Shape BaselineFilter: (5792, 6)
+Outputs\Results\Products\Bank Account\Bank Accounts - Test 3-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (5836, 6), Shape ResultFilter: (5792, 6)
+Match above?: True
+
+Outputs\Baseline\Products\Bank Account\Bank Accounts - Test 3-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (136, 6), Shape BaselineFilter: (136, 6)
+Outputs\Results\Products\Bank Account\Bank Accounts - Test 3-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (136, 6), Shape ResultFilter: (136, 6)
+Match above?: True
+
+Outputs\Baseline\Products\Equity Investment\Equity Investments - Test 1-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (8149, 6), Shape BaselineFilter: (8149, 6)
+Outputs\Results\Products\Equity Investment\Equity Investments - Test 1-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (8193, 6), Shape ResultFilter: (8149, 6)
+Match above?: True
+
+Outputs\Baseline\Products\Equity Investment\Equity Investments - Test 1-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (136, 6), Shape BaselineFilter: (136, 6)
+Outputs\Results\Products\Equity Investment\Equity Investments - Test 1-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (136, 6), Shape ResultFilter: (136, 6)
+Match above?: True
+
+Results file Outputs\Results\Products\Equity Investment\Equity Investments - Test 2-Simulation_CurrentPosition_Deterministic.csv missing
+
+Outputs\Baseline\Products\Equity Investment\Equity Investments - Test 2-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (136, 6), Shape BaselineFilter: (136, 6)
+Outputs\Results\Products\Equity Investment\Equity Investments - Test 2-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (136, 6), Shape ResultFilter: (136, 6)
+Match above?: True
+
+Outputs\Baseline\Products\Equity Investment\Equity Investments - Test 3-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (5350, 6), Shape BaselineFilter: (5350, 6)
+Outputs\Results\Products\Equity Investment\Equity Investments - Test 3-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (5394, 6), Shape ResultFilter: (5350, 6)
+Match above?: True
+
+Outputs\Baseline\Products\Equity Investment\Equity Investments - Test 3-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (136, 6), Shape BaselineFilter: (136, 6)
+Outputs\Results\Products\Equity Investment\Equity Investments - Test 3-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (136, 6), Shape ResultFilter: (136, 6)
+Match above?: True
+
+Outputs\Baseline\Products\Equity Investment\Equity Investments - Test 4-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (9887, 6), Shape BaselineFilter: (9887, 6)
+Outputs\Results\Products\Equity Investment\Equity Investments - Test 4-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (9985, 6), Shape ResultFilter: (9887, 6)
+Match above?: True
+
+Outputs\Baseline\Products\Equity Investment\Equity Investments - Test 4-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (151, 6), Shape BaselineFilter: (151, 6)
+Outputs\Results\Products\Equity Investment\Equity Investments - Test 4-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (151, 6), Shape ResultFilter: (151, 6)
+Match above?: True
+
+Outputs\Baseline\Products\Investment Fund\Investment Funds - Test 1-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (4863, 6), Shape BaselineFilter: (4863, 6)
+Outputs\Results\Products\Investment Fund\Investment Funds - Test 1-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (4897, 6), Shape ResultFilter: (4863, 6)
+Match above?: True
+
+Outputs\Baseline\Products\Investment Fund\Investment Funds - Test 1-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (106, 6), Shape BaselineFilter: (106, 6)
+Outputs\Results\Products\Investment Fund\Investment Funds - Test 1-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (106, 6), Shape ResultFilter: (106, 6)
+Match above?: True
+
+Outputs\Baseline\Products\Investment Fund\Investment Funds - Test 2-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (4381, 6), Shape BaselineFilter: (4381, 6)
+Outputs\Results\Products\Investment Fund\Investment Funds - Test 2-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (4415, 6), Shape ResultFilter: (4381, 6)
+Match above?: True
+
+Outputs\Baseline\Products\Investment Fund\Investment Funds - Test 2-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (106, 6), Shape BaselineFilter: (106, 6)
+Outputs\Results\Products\Investment Fund\Investment Funds - Test 2-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (106, 6), Shape ResultFilter: (106, 6)
+Match above?: True
+
+Outputs\Baseline\Products\Investment Fund\Investment Funds - Test 3-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (9887, 6), Shape BaselineFilter: (9887, 6)
+Outputs\Results\Products\Investment Fund\Investment Funds - Test 3-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (9985, 6), Shape ResultFilter: (9887, 6)
+Match above?: True
+
+Outputs\Baseline\Products\Investment Fund\Investment Funds - Test 3-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (151, 6), Shape BaselineFilter: (151, 6)
+Outputs\Results\Products\Investment Fund\Investment Funds - Test 3-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (151, 6), Shape ResultFilter: (151, 6)
+Match above?: True
+
+Outputs\Baseline\Products\Investment Fund\Investment Funds - Test 4-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (4140, 6), Shape BaselineFilter: (4140, 6)
+Outputs\Results\Products\Investment Fund\Investment Funds - Test 4-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (4174, 6), Shape ResultFilter: (4140, 6)
+Match above?: True
+
+Outputs\Baseline\Products\Investment Fund\Investment Funds - Test 4-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (106, 6), Shape BaselineFilter: (106, 6)
+Outputs\Results\Products\Investment Fund\Investment Funds - Test 4-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (106, 6), Shape ResultFilter: (106, 6)
+Match above?: True
+
+Outputs\Baseline\Products\LifeCycle Fund\LifeCycle - Test 1-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (5661, 6), Shape BaselineFilter: (5661, 6)
+Outputs\Results\Products\LifeCycle Fund\LifeCycle - Test 1-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (5705, 6), Shape ResultFilter: (5661, 6)
+Match above?: True
+
+Outputs\Baseline\Products\LifeCycle Fund\LifeCycle - Test 1-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (136, 6), Shape BaselineFilter: (136, 6)
+Outputs\Results\Products\LifeCycle Fund\LifeCycle - Test 1-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (136, 6), Shape ResultFilter: (136, 6)
+Match above?: True
+
+Outputs\Baseline\Products\LifeCycle Fund\LifeCycle - Test 2-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (5661, 6), Shape BaselineFilter: (5661, 6)
+Outputs\Results\Products\LifeCycle Fund\LifeCycle - Test 2-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (5705, 6), Shape ResultFilter: (5661, 6)
+Match above?: True
+
+Outputs\Baseline\Products\LifeCycle Fund\LifeCycle - Test 2-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (136, 6), Shape BaselineFilter: (136, 6)
+Outputs\Results\Products\LifeCycle Fund\LifeCycle - Test 2-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (136, 6), Shape ResultFilter: (136, 6)
+Match above?: True
+
+Outputs\Baseline\Products\LifeCycle Fund\LifeCycle - Test 3-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (9887, 6), Shape BaselineFilter: (9887, 6)
+Outputs\Results\Products\LifeCycle Fund\LifeCycle - Test 3-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (9985, 6), Shape ResultFilter: (9887, 6)
+Match above?: True
+
+Outputs\Baseline\Products\LifeCycle Fund\LifeCycle - Test 3-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (151, 6), Shape BaselineFilter: (151, 6)
+Outputs\Results\Products\LifeCycle Fund\LifeCycle - Test 3-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (151, 6), Shape ResultFilter: (151, 6)
+Match above?: True
+
+Outputs\Baseline\Products\LifeCycle Fund\LifeCycle - Test 4-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (5350, 6), Shape BaselineFilter: (5350, 6)
+Outputs\Results\Products\LifeCycle Fund\LifeCycle - Test 4-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (5394, 6), Shape ResultFilter: (5350, 6)
+Match above?: True
+
+Outputs\Baseline\Products\LifeCycle Fund\LifeCycle - Test 4-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (136, 6), Shape BaselineFilter: (136, 6)
+Outputs\Results\Products\LifeCycle Fund\LifeCycle - Test 4-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (136, 6), Shape ResultFilter: (136, 6)
+Match above?: True
+
+Outputs\Baseline\Products\Term Deposit\Term Deposit - Test 1-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (7388, 6), Shape BaselineFilter: (7388, 6)
+Outputs\Results\Products\Term Deposit\Term Deposit - Test 1-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (7432, 6), Shape ResultFilter: (7388, 6)
+Match above?: True
+
+Outputs\Baseline\Products\Term Deposit\Term Deposit - Test 1-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (136, 6), Shape BaselineFilter: (136, 6)
+Outputs\Results\Products\Term Deposit\Term Deposit - Test 1-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (136, 6), Shape ResultFilter: (136, 6)
+Match above?: True
+
+Outputs\Baseline\Products\Term Deposit\Term Deposit - Test 2-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (5792, 6), Shape BaselineFilter: (5792, 6)
+Outputs\Results\Products\Term Deposit\Term Deposit - Test 2-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (5836, 6), Shape ResultFilter: (5792, 6)
+Match above?: True
+
+Outputs\Baseline\Products\Term Deposit\Term Deposit - Test 2-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (136, 6), Shape BaselineFilter: (136, 6)
+Outputs\Results\Products\Term Deposit\Term Deposit - Test 2-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (136, 6), Shape ResultFilter: (136, 6)
+Match above?: True
+
+Outputs\Baseline\Products\Term Deposit\Term Deposit - Test 3-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (9587, 6), Shape BaselineFilter: (9587, 6)
+Outputs\Results\Products\Term Deposit\Term Deposit - Test 3-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (9685, 6), Shape ResultFilter: (9587, 6)
+Match above?: True
+
+Outputs\Baseline\Products\Term Deposit\Term Deposit - Test 3-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (151, 6), Shape BaselineFilter: (151, 6)
+Outputs\Results\Products\Term Deposit\Term Deposit - Test 3-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (151, 6), Shape ResultFilter: (151, 6)
+Match above?: True
+
+Results file Outputs\Results\Property\Property - Test 1-Simulation_CurrentPosition_Deterministic.csv missing
+
+Outputs\Baseline\Property\Property - Test 1-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (136, 6), Shape BaselineFilter: (136, 6)
+Outputs\Results\Property\Property - Test 1-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (136, 6), Shape ResultFilter: (136, 6)
+Match above?: True
+
+Results file Outputs\Results\Property\Property - Test 10-Simulation_CurrentPosition_Deterministic.csv missing
+
+Outputs\Baseline\Property\Property - Test 10-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (2515, 6), Shape BaselineFilter: (2515, 6)
+Outputs\Results\Property\Property - Test 10-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (2515, 6), Shape ResultFilter: (2515, 6)
+Match above?: True
+
+Outputs\Baseline\Property\Property - Test 11-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (6142, 6), Shape BaselineFilter: (6142, 6)
+Outputs\Results\Property\Property - Test 11-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (6186, 6), Shape ResultFilter: (6142, 6)
+Match above?: True
+
+Outputs\Baseline\Property\Property - Test 11-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (1722, 6), Shape BaselineFilter: (1722, 6)
+Outputs\Results\Property\Property - Test 11-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (1722, 6), Shape ResultFilter: (1722, 6)
+Match above?: True
+
+Outputs\Baseline\Property\Property - Test 12-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (6406, 6), Shape BaselineFilter: (6406, 6)
+Outputs\Results\Property\Property - Test 12-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (6450, 6), Shape ResultFilter: (6406, 6)
+Match above?: True
+
+Outputs\Baseline\Property\Property - Test 12-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (1722, 6), Shape BaselineFilter: (1722, 6)
+Outputs\Results\Property\Property - Test 12-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (1722, 6), Shape ResultFilter: (1722, 6)
+Match above?: True
+
+Outputs\Baseline\Property\Property - Test 13-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (5435, 6), Shape BaselineFilter: (5435, 6)
+Outputs\Results\Property\Property - Test 13-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (5479, 6), Shape ResultFilter: (5435, 6)
+Match above?: True
+
+Outputs\Baseline\Property\Property - Test 13-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (929, 6), Shape BaselineFilter: (929, 6)
+Outputs\Results\Property\Property - Test 13-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (929, 6), Shape ResultFilter: (929, 6)
+Match above?: True
+
+Outputs\Baseline\Property\Property - Test 14-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (10381, 6), Shape BaselineFilter: (10381, 6)
+Outputs\Results\Property\Property - Test 14-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (10473, 6), Shape ResultFilter: (10381, 6)
+Match above?: True
+
+Outputs\Baseline\Property\Property - Test 14-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (2629, 6), Shape BaselineFilter: (2629, 6)
+Outputs\Results\Property\Property - Test 14-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (2629, 6), Shape ResultFilter: (2629, 6)
+Match above?: True
+
+Outputs\Baseline\Property\Property - Test 15-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (6317, 6), Shape BaselineFilter: (6317, 6)
+Outputs\Results\Property\Property - Test 15-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (6361, 6), Shape ResultFilter: (6317, 6)
+Match above?: True
+
+Outputs\Baseline\Property\Property - Test 15-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (2515, 6), Shape BaselineFilter: (2515, 6)
+Outputs\Results\Property\Property - Test 15-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (2515, 6), Shape ResultFilter: (2515, 6)
+Match above?: True
+
+Outputs\Baseline\Property\Property - Test 16-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (4573, 6), Shape BaselineFilter: (4573, 6)
+Outputs\Results\Property\Property - Test 16-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (4608, 6), Shape ResultFilter: (4573, 6)
+Match above?: True
+
+Outputs\Baseline\Property\Property - Test 16-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (740, 6), Shape BaselineFilter: (740, 6)
+Outputs\Results\Property\Property - Test 16-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (740, 6), Shape ResultFilter: (740, 6)
+Match above?: True
+
+Outputs\Baseline\Property\Property - Test 2-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (5918, 6), Shape BaselineFilter: (5918, 6)
+Outputs\Results\Property\Property - Test 2-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (5962, 6), Shape ResultFilter: (5918, 6)
+Match above?: True
+
+Outputs\Baseline\Property\Property - Test 2-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (136, 6), Shape BaselineFilter: (136, 6)
+Outputs\Results\Property\Property - Test 2-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (136, 6), Shape ResultFilter: (136, 6)
+Match above?: True
+
+Outputs\Baseline\Property\Property - Test 3-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (10171, 6), Shape BaselineFilter: (10171, 6)
+Outputs\Results\Property\Property - Test 3-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (10269, 6), Shape ResultFilter: (10171, 6)
+Match above?: True
+
+Outputs\Baseline\Property\Property - Test 3-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (151, 6), Shape BaselineFilter: (151, 6)
+Outputs\Results\Property\Property - Test 3-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (151, 6), Shape ResultFilter: (151, 6)
+Match above?: True
+
+Outputs\Baseline\Property\Property - Test 4-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (9583, 6), Shape BaselineFilter: (9583, 6)
+Outputs\Results\Property\Property - Test 4-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (9681, 6), Shape ResultFilter: (9583, 6)
+Match above?: True
+
+Outputs\Baseline\Property\Property - Test 4-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (151, 6), Shape BaselineFilter: (151, 6)
+Outputs\Results\Property\Property - Test 4-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (151, 6), Shape ResultFilter: (151, 6)
+Match above?: True
+
+Outputs\Baseline\Property\Property - Test 5-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (7199, 6), Shape BaselineFilter: (7199, 6)
+Outputs\Results\Property\Property - Test 5-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (7243, 6), Shape ResultFilter: (7199, 6)
+Match above?: True
+
+Outputs\Baseline\Property\Property - Test 5-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (4101, 6), Shape BaselineFilter: (4101, 6)
+Outputs\Results\Property\Property - Test 5-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (4101, 6), Shape ResultFilter: (4101, 6)
+Match above?: True
+
+Outputs\Baseline\Property\Property - Test 6-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (7199, 6), Shape BaselineFilter: (7199, 6)
+Outputs\Results\Property\Property - Test 6-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (7243, 6), Shape ResultFilter: (7199, 6)
+Match above?: True
+
+Outputs\Baseline\Property\Property - Test 6-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (4101, 6), Shape BaselineFilter: (4101, 6)
+Outputs\Results\Property\Property - Test 6-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (4101, 6), Shape ResultFilter: (4101, 6)
+Match above?: True
+
+Outputs\Baseline\Property\Property - Test 7-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (7199, 6), Shape BaselineFilter: (7199, 6)
+Outputs\Results\Property\Property - Test 7-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (7243, 6), Shape ResultFilter: (7199, 6)
+Match above?: True
+
+Outputs\Baseline\Property\Property - Test 7-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (4101, 6), Shape BaselineFilter: (4101, 6)
+Outputs\Results\Property\Property - Test 7-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (4101, 6), Shape ResultFilter: (4101, 6)
+Match above?: True
+
+Outputs\Baseline\Property\Property - Test 8-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (7199, 6), Shape BaselineFilter: (7199, 6)
+Outputs\Results\Property\Property - Test 8-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (7243, 6), Shape ResultFilter: (7199, 6)
+Match above?: True
+
+Outputs\Baseline\Property\Property - Test 8-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (4101, 6), Shape BaselineFilter: (4101, 6)
+Outputs\Results\Property\Property - Test 8-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (4101, 6), Shape ResultFilter: (4101, 6)
+Match above?: True
+
+Outputs\Baseline\Property\Property - Test 9-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (6317, 6), Shape BaselineFilter: (6317, 6)
+Outputs\Results\Property\Property - Test 9-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (6361, 6), Shape ResultFilter: (6317, 6)
+Match above?: True
+
+Outputs\Baseline\Property\Property - Test 9-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (2515, 6), Shape BaselineFilter: (2515, 6)
+Outputs\Results\Property\Property - Test 9-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (2515, 6), Shape ResultFilter: (2515, 6)
+Match above?: True
+
+Outputs\Baseline\SimulationParameters\InsurancePremium\Test1-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (4994, 6), Shape BaselineFilter: (4994, 6)
+Outputs\Results\SimulationParameters\InsurancePremium\Test1-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (5038, 6), Shape ResultFilter: (4994, 6)
+Match above?: True
+
+Outputs\Baseline\SimulationParameters\InsurancePremium\Test1-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (136, 6), Shape BaselineFilter: (136, 6)
+Outputs\Results\SimulationParameters\InsurancePremium\Test1-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (136, 6), Shape ResultFilter: (136, 6)
+Match above?: True
+
+Outputs\Baseline\WhatIf\Death\WhatIfDeath - Test 1-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (9126, 6), Shape BaselineFilter: (9126, 6)
+Outputs\Results\WhatIf\Death\WhatIfDeath - Test 1-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (9224, 6), Shape ResultFilter: (9126, 6)
+Match above?: True
+
+Outputs\Baseline\WhatIf\Death\WhatIfDeath - Test 1-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (151, 6), Shape BaselineFilter: (151, 6)
+Outputs\Results\WhatIf\Death\WhatIfDeath - Test 1-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (151, 6), Shape ResultFilter: (151, 6)
+Match above?: True
+
+Results file Outputs\Results\WhatIf\Death\WhatIfDeath - Test 10-Simulation_CurrentPosition_Deterministic.csv missing
+
+Outputs\Baseline\WhatIf\Death\WhatIfDeath - Test 10-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (151, 6), Shape BaselineFilter: (151, 6)
+Outputs\Results\WhatIf\Death\WhatIfDeath - Test 10-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (151, 6), Shape ResultFilter: (151, 6)
+Match above?: True
+
+Outputs\Baseline\WhatIf\Death\WhatIfDeath - Test 2-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (10090, 6), Shape BaselineFilter: (10090, 6)
+Outputs\Results\WhatIf\Death\WhatIfDeath - Test 2-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (10188, 6), Shape ResultFilter: (10090, 6)
+Match above?: True
+
+Outputs\Baseline\WhatIf\Death\WhatIfDeath - Test 2-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (151, 6), Shape BaselineFilter: (151, 6)
+Outputs\Results\WhatIf\Death\WhatIfDeath - Test 2-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (151, 6), Shape ResultFilter: (151, 6)
+Match above?: True
+
+Outputs\Baseline\WhatIf\Death\WhatIfDeath - Test 3-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (10090, 6), Shape BaselineFilter: (10090, 6)
+Outputs\Results\WhatIf\Death\WhatIfDeath - Test 3-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (10188, 6), Shape ResultFilter: (10090, 6)
+Match above?: True
+
+Outputs\Baseline\WhatIf\Death\WhatIfDeath - Test 3-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (151, 6), Shape BaselineFilter: (151, 6)
+Outputs\Results\WhatIf\Death\WhatIfDeath - Test 3-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (151, 6), Shape ResultFilter: (151, 6)
+Match above?: True
+
+Outputs\Baseline\WhatIf\Death\WhatIfDeath - Test 4-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (11017, 6), Shape BaselineFilter: (11017, 6)
+Outputs\Results\WhatIf\Death\WhatIfDeath - Test 4-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (11115, 6), Shape ResultFilter: (11017, 6)
+Match above?: True
+
+Outputs\Baseline\WhatIf\Death\WhatIfDeath - Test 4-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (151, 6), Shape BaselineFilter: (151, 6)
+Outputs\Results\WhatIf\Death\WhatIfDeath - Test 4-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (151, 6), Shape ResultFilter: (151, 6)
+Match above?: True
+
+Outputs\Baseline\WhatIf\Death\WhatIfDeath - Test 5-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (10595, 6), Shape BaselineFilter: (10595, 6)
+Outputs\Results\WhatIf\Death\WhatIfDeath - Test 5-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (10693, 6), Shape ResultFilter: (10595, 6)
+Match above?: True
+
+Outputs\Baseline\WhatIf\Death\WhatIfDeath - Test 5-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (151, 6), Shape BaselineFilter: (151, 6)
+Outputs\Results\WhatIf\Death\WhatIfDeath - Test 5-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (151, 6), Shape ResultFilter: (151, 6)
+Match above?: True
+
+Outputs\Baseline\WhatIf\Death\WhatIfDeath - Test 6-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (8867, 6), Shape BaselineFilter: (8867, 6)
+Outputs\Results\WhatIf\Death\WhatIfDeath - Test 6-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (8949, 6), Shape ResultFilter: (8867, 6)
+Match above?: True
+
+Outputs\Baseline\WhatIf\Death\WhatIfDeath - Test 6-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (127, 6), Shape BaselineFilter: (127, 6)
+Outputs\Results\WhatIf\Death\WhatIfDeath - Test 6-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (127, 6), Shape ResultFilter: (127, 6)
+Match above?: True
+
+Outputs\Baseline\WhatIf\Death\WhatIfDeath - Test 7-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (8437, 6), Shape BaselineFilter: (8437, 6)
+Outputs\Results\WhatIf\Death\WhatIfDeath - Test 7-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (8515, 6), Shape ResultFilter: (8437, 6)
+Match above?: True
+
+Outputs\Baseline\WhatIf\Death\WhatIfDeath - Test 7-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (121, 6), Shape BaselineFilter: (121, 6)
+Outputs\Results\WhatIf\Death\WhatIfDeath - Test 7-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (121, 6), Shape ResultFilter: (121, 6)
+Match above?: True
+
+Outputs\Baseline\WhatIf\Death\WhatIfDeath - Test 8-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (11000, 6), Shape BaselineFilter: (11000, 6)
+Outputs\Results\WhatIf\Death\WhatIfDeath - Test 8-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (11098, 6), Shape ResultFilter: (11000, 6)
+Match above?: True
+
+Outputs\Baseline\WhatIf\Death\WhatIfDeath - Test 8-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (151, 6), Shape BaselineFilter: (151, 6)
+Outputs\Results\WhatIf\Death\WhatIfDeath - Test 8-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (151, 6), Shape ResultFilter: (151, 6)
+Match above?: True
+
+Outputs\Baseline\WhatIf\Death\WhatIfDeath - Test 9-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (9927, 6), Shape BaselineFilter: (9927, 6)
+Outputs\Results\WhatIf\Death\WhatIfDeath - Test 9-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (10025, 6), Shape ResultFilter: (9927, 6)
+Match above?: True
+
+Outputs\Baseline\WhatIf\Death\WhatIfDeath - Test 9-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (153, 6), Shape BaselineFilter: (153, 6)
+Outputs\Results\WhatIf\Death\WhatIfDeath - Test 9-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (153, 6), Shape ResultFilter: (153, 6)
+Match above?: True
+
+Outputs\Baseline\WhatIf\IncomeLoss\WhatIfIncomeLoss - Test 1-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (9052, 6), Shape BaselineFilter: (9052, 6)
+Outputs\Results\WhatIf\IncomeLoss\WhatIfIncomeLoss - Test 1-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (9150, 6), Shape ResultFilter: (9052, 6)
+Match above?: True
+
+Outputs\Baseline\WhatIf\IncomeLoss\WhatIfIncomeLoss - Test 1-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (151, 6), Shape BaselineFilter: (151, 6)
+Outputs\Results\WhatIf\IncomeLoss\WhatIfIncomeLoss - Test 1-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (151, 6), Shape ResultFilter: (151, 6)
+Match above?: True
+
+Outputs\Baseline\WhatIf\IncomeLoss\WhatIfIncomeLoss - Test 2-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (10617, 6), Shape BaselineFilter: (10617, 6)
+Outputs\Results\WhatIf\IncomeLoss\WhatIfIncomeLoss - Test 2-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (10715, 6), Shape ResultFilter: (10617, 6)
+Match above?: True
+
+Outputs\Baseline\WhatIf\IncomeLoss\WhatIfIncomeLoss - Test 2-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (151, 6), Shape BaselineFilter: (151, 6)
+Outputs\Results\WhatIf\IncomeLoss\WhatIfIncomeLoss - Test 2-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (151, 6), Shape ResultFilter: (151, 6)
+Match above?: True
+
+Outputs\Baseline\WhatIf\IncomeLoss\WhatIfIncomeLoss - Test 3-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (9787, 6), Shape BaselineFilter: (9787, 6)
+Outputs\Results\WhatIf\IncomeLoss\WhatIfIncomeLoss - Test 3-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (9885, 6), Shape ResultFilter: (9787, 6)
+Match above?: True
+
+Outputs\Baseline\WhatIf\IncomeLoss\WhatIfIncomeLoss - Test 3-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (151, 6), Shape BaselineFilter: (151, 6)
+Outputs\Results\WhatIf\IncomeLoss\WhatIfIncomeLoss - Test 3-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (151, 6), Shape ResultFilter: (151, 6)
+Match above?: True
+
+Outputs\Baseline\WhatIf\IncomeLoss\WhatIfIncomeLoss - Test 4-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (8995, 6), Shape BaselineFilter: (8995, 6)
+Outputs\Results\WhatIf\IncomeLoss\WhatIfIncomeLoss - Test 4-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (9093, 6), Shape ResultFilter: (8995, 6)
+Match above?: True
+
+Outputs\Baseline\WhatIf\IncomeLoss\WhatIfIncomeLoss - Test 4-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (151, 6), Shape BaselineFilter: (151, 6)
+Outputs\Results\WhatIf\IncomeLoss\WhatIfIncomeLoss - Test 4-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (151, 6), Shape ResultFilter: (151, 6)
+Match above?: True
+
+Outputs\Baseline\WhatIf\IncomeLoss\WhatIfIncomeLoss - Test 5-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (9890, 6), Shape BaselineFilter: (9890, 6)
+Outputs\Results\WhatIf\IncomeLoss\WhatIfIncomeLoss - Test 5-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (9988, 6), Shape ResultFilter: (9890, 6)
+Match above?: True
+
+Outputs\Baseline\WhatIf\IncomeLoss\WhatIfIncomeLoss - Test 5-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (153, 6), Shape BaselineFilter: (153, 6)
+Outputs\Results\WhatIf\IncomeLoss\WhatIfIncomeLoss - Test 5-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (153, 6), Shape ResultFilter: (153, 6)
+Match above?: True
+
+Outputs\Baseline\WhatIf\IncomeLoss\WhatIfIncomeLoss - Test 6-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (9395, 6), Shape BaselineFilter: (9395, 6)
+Outputs\Results\WhatIf\IncomeLoss\WhatIfIncomeLoss - Test 6-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (9493, 6), Shape ResultFilter: (9395, 6)
+Match above?: True
+
+Outputs\Baseline\WhatIf\IncomeLoss\WhatIfIncomeLoss - Test 6-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (151, 6), Shape BaselineFilter: (151, 6)
+Outputs\Results\WhatIf\IncomeLoss\WhatIfIncomeLoss - Test 6-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (151, 6), Shape ResultFilter: (151, 6)
+Match above?: True
+
+Outputs\Baseline\WhatIf\IncomeLoss\WhatIfIncomeLoss - Test 7-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (9395, 6), Shape BaselineFilter: (9395, 6)
+Outputs\Results\WhatIf\IncomeLoss\WhatIfIncomeLoss - Test 7-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (9493, 6), Shape ResultFilter: (9395, 6)
+Match above?: True
+
+Outputs\Baseline\WhatIf\IncomeLoss\WhatIfIncomeLoss - Test 7-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (151, 6), Shape BaselineFilter: (151, 6)
+Outputs\Results\WhatIf\IncomeLoss\WhatIfIncomeLoss - Test 7-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (151, 6), Shape ResultFilter: (151, 6)
+Match above?: True
+
+Outputs\Baseline\WhatIf\ModifyCashflow\WhatIfModifyCashflow - Test 1-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (9128, 6), Shape BaselineFilter: (9128, 6)
+Outputs\Results\WhatIf\ModifyCashflow\WhatIfModifyCashflow - Test 1-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (9226, 6), Shape ResultFilter: (9128, 6)
+Match above?: True
+
+Outputs\Baseline\WhatIf\ModifyCashflow\WhatIfModifyCashflow - Test 1-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (151, 6), Shape BaselineFilter: (151, 6)
+Outputs\Results\WhatIf\ModifyCashflow\WhatIfModifyCashflow - Test 1-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (151, 6), Shape ResultFilter: (151, 6)
+Match above?: True
+
+Outputs\Baseline\WhatIf\ModifyCashflow\WhatIfModifyCashflow - Test 2-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (6503, 6), Shape BaselineFilter: (6503, 6)
+Outputs\Results\WhatIf\ModifyCashflow\WhatIfModifyCashflow - Test 2-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (6573, 6), Shape ResultFilter: (6503, 6)
+Match above?: True
+
+Outputs\Baseline\WhatIf\ModifyCashflow\WhatIfModifyCashflow - Test 2-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (109, 6), Shape BaselineFilter: (109, 6)
+Outputs\Results\WhatIf\ModifyCashflow\WhatIfModifyCashflow - Test 2-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (109, 6), Shape ResultFilter: (109, 6)
+Match above?: True
+
+Results file Outputs\Results\WhatIf\TPD\WhatIfTPD - Test 1-Simulation_CurrentPosition_Deterministic.csv missing
+
+Outputs\Baseline\WhatIf\TPD\WhatIfTPD - Test 1-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (151, 6), Shape BaselineFilter: (151, 6)
+Outputs\Results\WhatIf\TPD\WhatIfTPD - Test 1-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (151, 6), Shape ResultFilter: (151, 6)
+Match above?: True
+
+Outputs\Baseline\WhatIf\TPD\WhatIfTPD - Test 2-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (10090, 6), Shape BaselineFilter: (10090, 6)
+Outputs\Results\WhatIf\TPD\WhatIfTPD - Test 2-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (10188, 6), Shape ResultFilter: (10090, 6)
+Match above?: True
+
+Outputs\Baseline\WhatIf\TPD\WhatIfTPD - Test 2-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (151, 6), Shape BaselineFilter: (151, 6)
+Outputs\Results\WhatIf\TPD\WhatIfTPD - Test 2-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (151, 6), Shape ResultFilter: (151, 6)
+Match above?: True
+
+Outputs\Baseline\WhatIf\TPD\WhatIfTPD - Test 3-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (10090, 6), Shape BaselineFilter: (10090, 6)
+Outputs\Results\WhatIf\TPD\WhatIfTPD - Test 3-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (10188, 6), Shape ResultFilter: (10090, 6)
+Match above?: True
+
+Outputs\Baseline\WhatIf\TPD\WhatIfTPD - Test 3-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (151, 6), Shape BaselineFilter: (151, 6)
+Outputs\Results\WhatIf\TPD\WhatIfTPD - Test 3-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (151, 6), Shape ResultFilter: (151, 6)
+Match above?: True
+
+Outputs\Baseline\WhatIf\TPD\WhatIfTPD - Test 4-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (10629, 6), Shape BaselineFilter: (10629, 6)
+Outputs\Results\WhatIf\TPD\WhatIfTPD - Test 4-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (10727, 6), Shape ResultFilter: (10629, 6)
+Match above?: True
+
+Outputs\Baseline\WhatIf\TPD\WhatIfTPD - Test 4-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (151, 6), Shape BaselineFilter: (151, 6)
+Outputs\Results\WhatIf\TPD\WhatIfTPD - Test 4-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (151, 6), Shape ResultFilter: (151, 6)
+Match above?: True
+
+Outputs\Baseline\WhatIf\TPD\WhatIfTPD - Test 5-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (11387, 6), Shape BaselineFilter: (11387, 6)
+Outputs\Results\WhatIf\TPD\WhatIfTPD - Test 5-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (11485, 6), Shape ResultFilter: (11387, 6)
+Match above?: True
+
+Outputs\Baseline\WhatIf\TPD\WhatIfTPD - Test 5-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (151, 6), Shape BaselineFilter: (151, 6)
+Outputs\Results\WhatIf\TPD\WhatIfTPD - Test 5-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (151, 6), Shape ResultFilter: (151, 6)
+Match above?: True
+
+Outputs\Baseline\WhatIf\TPD\WhatIfTPD - Test 6-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (7797, 6), Shape BaselineFilter: (7797, 6)
+Outputs\Results\WhatIf\TPD\WhatIfTPD - Test 6-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (7875, 6), Shape ResultFilter: (7797, 6)
+Match above?: True
+
+Outputs\Baseline\WhatIf\TPD\WhatIfTPD - Test 6-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (121, 6), Shape BaselineFilter: (121, 6)
+Outputs\Results\WhatIf\TPD\WhatIfTPD - Test 6-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (121, 6), Shape ResultFilter: (121, 6)
+Match above?: True
+
+Outputs\Baseline\WhatIf\TPD\WhatIfTPD - Test 7-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (8995, 6), Shape BaselineFilter: (8995, 6)
+Outputs\Results\WhatIf\TPD\WhatIfTPD - Test 7-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (9093, 6), Shape ResultFilter: (8995, 6)
+Match above?: True
+
+Outputs\Baseline\WhatIf\TPD\WhatIfTPD - Test 7-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (151, 6), Shape BaselineFilter: (151, 6)
+Outputs\Results\WhatIf\TPD\WhatIfTPD - Test 7-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (151, 6), Shape ResultFilter: (151, 6)
+Match above?: True
+
+Outputs\Baseline\WhatIf\TPD\WhatIfTPD - Test 8-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (9890, 6), Shape BaselineFilter: (9890, 6)
+Outputs\Results\WhatIf\TPD\WhatIfTPD - Test 8-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (9988, 6), Shape ResultFilter: (9890, 6)
+Match above?: True
+
+Outputs\Baseline\WhatIf\TPD\WhatIfTPD - Test 8-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (153, 6), Shape BaselineFilter: (153, 6)
+Outputs\Results\WhatIf\TPD\WhatIfTPD - Test 8-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (153, 6), Shape ResultFilter: (153, 6)
+Match above?: True
+
+Outputs\Baseline\WhatIf\Trauma\WhatIfTrauma - Test 1-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (9059, 6), Shape BaselineFilter: (9059, 6)
+Outputs\Results\WhatIf\Trauma\WhatIfTrauma - Test 1-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (9157, 6), Shape ResultFilter: (9059, 6)
+Match above?: True
+
+Outputs\Baseline\WhatIf\Trauma\WhatIfTrauma - Test 1-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (151, 6), Shape BaselineFilter: (151, 6)
+Outputs\Results\WhatIf\Trauma\WhatIfTrauma - Test 1-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (151, 6), Shape ResultFilter: (151, 6)
+Match above?: True
+
+Outputs\Baseline\WhatIf\Trauma\WhatIfTrauma - Test 2-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (10090, 6), Shape BaselineFilter: (10090, 6)
+Outputs\Results\WhatIf\Trauma\WhatIfTrauma - Test 2-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (10188, 6), Shape ResultFilter: (10090, 6)
+Match above?: True
+
+Outputs\Baseline\WhatIf\Trauma\WhatIfTrauma - Test 2-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (151, 6), Shape BaselineFilter: (151, 6)
+Outputs\Results\WhatIf\Trauma\WhatIfTrauma - Test 2-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (151, 6), Shape ResultFilter: (151, 6)
+Match above?: True
+
+Outputs\Baseline\WhatIf\Trauma\WhatIfTrauma - Test 3-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (10386, 6), Shape BaselineFilter: (10386, 6)
+Outputs\Results\WhatIf\Trauma\WhatIfTrauma - Test 3-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (10484, 6), Shape ResultFilter: (10386, 6)
+Match above?: True
+
+Outputs\Baseline\WhatIf\Trauma\WhatIfTrauma - Test 3-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (151, 6), Shape BaselineFilter: (151, 6)
+Outputs\Results\WhatIf\Trauma\WhatIfTrauma - Test 3-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (151, 6), Shape ResultFilter: (151, 6)
+Match above?: True
+
+Outputs\Baseline\WhatIf\Trauma\WhatIfTrauma - Test 4-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (10656, 6), Shape BaselineFilter: (10656, 6)
+Outputs\Results\WhatIf\Trauma\WhatIfTrauma - Test 4-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (10754, 6), Shape ResultFilter: (10656, 6)
+Match above?: True
+
+Results file Outputs\Results\WhatIf\Trauma\WhatIfTrauma - Test 4-Simulation_CurrentPosition_Stochastic.csv missing
+
+Outputs\Baseline\WhatIf\Trauma\WhatIfTrauma - Test 5-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (10595, 6), Shape BaselineFilter: (10595, 6)
+Outputs\Results\WhatIf\Trauma\WhatIfTrauma - Test 5-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (10693, 6), Shape ResultFilter: (10595, 6)
+Match above?: True
+
+Outputs\Baseline\WhatIf\Trauma\WhatIfTrauma - Test 5-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (151, 6), Shape BaselineFilter: (151, 6)
+Outputs\Results\WhatIf\Trauma\WhatIfTrauma - Test 5-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (151, 6), Shape ResultFilter: (151, 6)
+Match above?: True
+
+Outputs\Baseline\WhatIf\Trauma\WhatIfTrauma - Test 6-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (7797, 6), Shape BaselineFilter: (7797, 6)
+Outputs\Results\WhatIf\Trauma\WhatIfTrauma - Test 6-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (7875, 6), Shape ResultFilter: (7797, 6)
+Match above?: True
+
+Outputs\Baseline\WhatIf\Trauma\WhatIfTrauma - Test 6-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (121, 6), Shape BaselineFilter: (121, 6)
+Outputs\Results\WhatIf\Trauma\WhatIfTrauma - Test 6-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (121, 6), Shape ResultFilter: (121, 6)
+Match above?: True
+
+Outputs\Baseline\WhatIf\Trauma\WhatIfTrauma - Test 7-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (8995, 6), Shape BaselineFilter: (8995, 6)
+Outputs\Results\WhatIf\Trauma\WhatIfTrauma - Test 7-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (9093, 6), Shape ResultFilter: (8995, 6)
+Match above?: True
+
+Outputs\Baseline\WhatIf\Trauma\WhatIfTrauma - Test 7-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (151, 6), Shape BaselineFilter: (151, 6)
+Outputs\Results\WhatIf\Trauma\WhatIfTrauma - Test 7-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (151, 6), Shape ResultFilter: (151, 6)
+Match above?: True
+
+All files match. Woop woop.

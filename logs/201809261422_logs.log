@@ -1,0 +1,25 @@
+Log file for checking output of baseline and results files
+
+Baseline: 726, Results: 567
+
+Outputs\Baseline\Actions\CareerBreak\Test1-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (12106, 6), Shape BaselineFilter: (12106, 6)
+Outputs\Results\Actions\CareerBreak\Test1-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (12238, 6), Shape ResultFilter: (12106, 6)
+Match above?: True
+
+Outputs\Baseline\Actions\CareerBreak\Test1-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (202, 6), Shape BaselineFilter: (202, 6)
+Outputs\Results\Actions\CareerBreak\Test1-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (202, 6), Shape ResultFilter: (202, 6)
+Match above?: True
+
+Outputs\Baseline\Actions\CareerBreak\Test2-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (12106, 6), Shape BaselineFilter: (12106, 6)
+Outputs\Results\Actions\CareerBreak\Test2-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (12238, 6), Shape ResultFilter: (12106, 6)
+Match above?: True
+
+Outputs\Baseline\Actions\CareerBreak\Test2-Simulation_CurrentPosition_Stochastic.csv, Shape Baseline: (202, 6), Shape BaselineFilter: (202, 6)
+Outputs\Results\Actions\CareerBreak\Test2-Simulation_CurrentPosition_Stochastic.csv, Shape Result: (202, 6), Shape ResultFilter: (202, 6)
+Match above?: True
+
+Outputs\Baseline\Actions\DebtDrawdown\Test1-Simulation_CurrentPosition_Deterministic.csv, Shape Baseline: (13299, 6), Shape BaselineFilter: (13299, 6)
+Outputs\Results\Actions\DebtDrawdown\Test1-Simulation_CurrentPosition_Deterministic.csv, Shape Result: (13431, 6), Shape ResultFilter: (13299, 6)
+Match above?: True
+
+All files match. Woop woop.
